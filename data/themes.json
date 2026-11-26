@@ -1,0 +1,3098 @@
+[
+ {
+  "id": 538506847,
+  "wrestler": "Stone Cold Steve Austin",
+  "aliases": [
+   "Steve Austin",
+   "Stone Cold"
+  ],
+  "song": "Hell Frozen Over",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 443701280,
+  "wrestler": "Stone Cold Steve Austin",
+  "aliases": [
+   "Steve Austin",
+   "Stone Cold"
+  ],
+  "song": "I Won't Do What You Tell Me",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 445886250,
+  "wrestler": "The Rock",
+  "aliases": [
+   "Rocky Maivia",
+   "Dwayne Johnson"
+  ],
+  "song": "If You Smell",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 428254346,
+  "wrestler": "The Rock",
+  "aliases": [
+   "Rocky Maivia",
+   "Dwayne Johnson"
+  ],
+  "song": "Electrifying",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 442415865,
+  "wrestler": "Triple H",
+  "aliases": [
+   "Hunter Hearst Helmsley",
+   "HHH"
+  ],
+  "song": "The Game",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 443940399,
+  "wrestler": "Triple H",
+  "aliases": [
+   "Hunter Hearst Helmsley",
+   "HHH"
+  ],
+  "song": "King of Kings",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 443934704,
+  "wrestler": "The Undertaker",
+  "aliases": [
+   "Undertaker",
+   "Taker"
+  ],
+  "song": "Rest In Peace",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506846,
+  "wrestler": "The Undertaker",
+  "aliases": [
+   "Undertaker",
+   "Taker"
+  ],
+  "song": "Dark Side",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 443938602,
+  "wrestler": "Shawn Michaels",
+  "aliases": [
+   "HBK"
+  ],
+  "song": "Sexy Boy",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506836,
+  "wrestler": "Bret Hart",
+  "aliases": [
+   "Bret Hitman Hart",
+   "The Hitman"
+  ],
+  "song": "Hart Attack",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 442414438,
+  "wrestler": "Bret Hart",
+  "aliases": [
+   "Bret Hitman Hart",
+   "The Hitman"
+  ],
+  "song": "Return the Hitman",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 490681439,
+  "wrestler": "Kane",
+  "aliases": [],
+  "song": "Veil of Fire",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506980,
+  "wrestler": "Kane",
+  "aliases": [],
+  "song": "Out Of The Fire",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538145996,
+  "wrestler": "Mankind",
+  "aliases": [
+   "Mick Foley",
+   "Dude Love",
+   "Cactus Jack"
+  ],
+  "song": "Wreck",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506852,
+  "wrestler": "Mankind",
+  "aliases": [
+   "Mick Foley",
+   "Dude Love",
+   "Cactus Jack"
+  ],
+  "song": "Ode to Freud",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 585439818,
+  "wrestler": "Chris Jericho",
+  "aliases": [
+   "Y2J"
+  ],
+  "song": "Break the Walls Down",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1278081276,
+  "wrestler": "Chris Jericho",
+  "aliases": [
+   "Y2J"
+  ],
+  "song": "Judas",
+  "promotion": "AEW",
+  "era": "Classic"
+ },
+ {
+  "id": 1382308075,
+  "wrestler": "Kurt Angle",
+  "aliases": [],
+  "song": "Medal",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549395,
+  "wrestler": "Kurt Angle",
+  "aliases": [],
+  "song": "I Don't Suck",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1440631757,
+  "wrestler": "Edge",
+  "aliases": [
+   "Adam Copeland"
+  ],
+  "song": "Metalingus",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549328,
+  "wrestler": "Edge",
+  "aliases": [
+   "Adam Copeland"
+  ],
+  "song": "You Think You Know Me",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 688609258,
+  "wrestler": "Christian",
+  "aliases": [
+   "Christian Cage"
+  ],
+  "song": "Just Close Your Eyes",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 512317940,
+  "wrestler": "Christian",
+  "aliases": [
+   "Christian Cage"
+  ],
+  "song": "Blood Brother",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506981,
+  "wrestler": "Eddie Guerrero",
+  "aliases": [],
+  "song": "Latino Heat",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1185077421,
+  "wrestler": "Eddie Guerrero",
+  "aliases": [],
+  "song": "Viva La Raza",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 443165164,
+  "wrestler": "Rey Mysterio",
+  "aliases": [],
+  "song": "619",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 404193371,
+  "wrestler": "Rey Mysterio",
+  "aliases": [],
+  "song": "Booyaka 619",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 585439816,
+  "wrestler": "Batista",
+  "aliases": [
+   "Dave Bautista"
+  ],
+  "song": "I Walk Alone",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1271429443,
+  "wrestler": "Batista",
+  "aliases": [
+   "Dave Bautista"
+  ],
+  "song": "Animal",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 440424769,
+  "wrestler": "Randy Orton",
+  "aliases": [],
+  "song": "Voices",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 404193320,
+  "wrestler": "Randy Orton",
+  "aliases": [],
+  "song": "Burn In My Light",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 445878844,
+  "wrestler": "John Cena",
+  "aliases": [],
+  "song": "The Time Is Now",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 517734584,
+  "wrestler": "Brock Lesnar",
+  "aliases": [],
+  "song": "Next Big Thing",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 857570769,
+  "wrestler": "Big Show",
+  "aliases": [
+   "The Big Show",
+   "Paul Wight"
+  ],
+  "song": "Crank It Up",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 548830266,
+  "wrestler": "Big Show",
+  "aliases": [
+   "The Big Show",
+   "Paul Wight"
+  ],
+  "song": "Big",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 404193357,
+  "wrestler": "Mark Henry",
+  "aliases": [],
+  "song": "Some Bodies Gonna Get It",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549425,
+  "wrestler": "Mark Henry",
+  "aliases": [],
+  "song": "Sexual Chocolate",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 853467457,
+  "wrestler": "Booker T",
+  "aliases": [],
+  "song": "G.I. Bro",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 689482776,
+  "wrestler": "Rob Van Dam",
+  "aliases": [
+   "RVD"
+  ],
+  "song": "One of a Kind",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1211468959,
+  "wrestler": "Rob Van Dam",
+  "aliases": [
+   "RVD"
+  ],
+  "song": "Dam-Nation",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 621624895,
+  "wrestler": "Jeff Hardy",
+  "aliases": [],
+  "song": "No More Words",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549421,
+  "wrestler": "Lita",
+  "aliases": [],
+  "song": "It Just Feels Right",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 857570714,
+  "wrestler": "Lita",
+  "aliases": [],
+  "song": "LoveFuryPassionEnergy",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549185,
+  "wrestler": "Trish Stratus",
+  "aliases": [],
+  "song": "Time to Rock and Roll",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506985,
+  "wrestler": "Chyna",
+  "aliases": [],
+  "song": "Who I Am",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 445877785,
+  "wrestler": "D-Generation X",
+  "aliases": [
+   "DX"
+  ],
+  "song": "Are You Ready?",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549273,
+  "wrestler": "D-Generation X",
+  "aliases": [
+   "DX"
+  ],
+  "song": "Break It Down",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549346,
+  "wrestler": "New Age Outlaws",
+  "aliases": [
+   "The New Age Outlaws"
+  ],
+  "song": "Oh You Didn't Know",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 6773868748,
+  "wrestler": "Road Dogg",
+  "aliases": [],
+  "song": "With My Baby Tonight",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506953,
+  "wrestler": "Billy Gunn",
+  "aliases": [
+   "Mr. Ass",
+   "The One Billy Gunn"
+  ],
+  "song": "AssMan",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506982,
+  "wrestler": "Billy Gunn",
+  "aliases": [
+   "Mr. Ass",
+   "The One Billy Gunn"
+  ],
+  "song": "I've Got It All",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 6773868644,
+  "wrestler": "X-Pac",
+  "aliases": [
+   "1-2-3 Kid",
+   "Sean Waltman"
+  ],
+  "song": "One Two Three",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 443935799,
+  "wrestler": "Mr. McMahon",
+  "aliases": [
+   "Vince McMahon"
+  ],
+  "song": "No Chance In Hell",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1094726299,
+  "wrestler": "Shane McMahon",
+  "aliases": [],
+  "song": "Here Comes the Money",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 634533620,
+  "wrestler": "Stephanie McMahon",
+  "aliases": [],
+  "song": "Welcome to the Queendom",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549195,
+  "wrestler": "Stephanie McMahon",
+  "aliases": [],
+  "song": "All Grown Up",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 879563780,
+  "wrestler": "Hulk Hogan",
+  "aliases": [
+   "Hollywood Hogan",
+   "Hulkster"
+  ],
+  "song": "Real American",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 805085880,
+  "wrestler": "The Ultimate Warrior",
+  "aliases": [
+   "Ultimate Warrior"
+  ],
+  "song": "Unstable",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 853467455,
+  "wrestler": "Macho Man Randy Savage",
+  "aliases": [
+   "Randy Savage",
+   "Macho Man"
+  ],
+  "song": "Pomp and Circumstance",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 853467474,
+  "wrestler": "Macho Man Randy Savage",
+  "aliases": [
+   "Randy Savage",
+   "Macho Man"
+  ],
+  "song": "What Up Mach?",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 445882323,
+  "wrestler": "Jake The Snake Roberts",
+  "aliases": [
+   "Jake Roberts"
+  ],
+  "song": "Snake Bit",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 445885004,
+  "wrestler": "Ted DiBiase",
+  "aliases": [
+   "Million Dollar Man",
+   "The Million Dollar Man"
+  ],
+  "song": "It's All About The Money",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 655303487,
+  "wrestler": "Mr. Perfect",
+  "aliases": [
+   "Curt Hennig"
+  ],
+  "song": "Perfection",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 805085881,
+  "wrestler": "Roddy Piper",
+  "aliases": [
+   "Rowdy Roddy Piper"
+  ],
+  "song": "Hot Rod",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 445884505,
+  "wrestler": "Jimmy Snuka",
+  "aliases": [
+   "Superfly"
+  ],
+  "song": "Superfly",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506835,
+  "wrestler": "Razor Ramon",
+  "aliases": [
+   "Scott Hall"
+  ],
+  "song": "Bad Boy",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506829,
+  "wrestler": "Diesel",
+  "aliases": [
+   "Kevin Nash"
+  ],
+  "song": "Diesel Blues",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1314592511,
+  "wrestler": "Diesel",
+  "aliases": [
+   "Kevin Nash"
+  ],
+  "song": "Jackknife",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 512318037,
+  "wrestler": "Yokozuna",
+  "aliases": [],
+  "song": "Sumo",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506851,
+  "wrestler": "Vader",
+  "aliases": [],
+  "song": "Mastodon",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506857,
+  "wrestler": "Sycho Sid",
+  "aliases": [
+   "Psycho Sid",
+   "Sid"
+  ],
+  "song": "Snap",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506834,
+  "wrestler": "Sycho Sid",
+  "aliases": [
+   "Psycho Sid",
+   "Sid"
+  ],
+  "song": "Psycho-Dance",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549295,
+  "wrestler": "Goldust",
+  "aliases": [],
+  "song": "Gold-Lust",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506832,
+  "wrestler": "Goldust",
+  "aliases": [],
+  "song": "Goldust",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1620257121,
+  "wrestler": "Owen Hart",
+  "aliases": [],
+  "song": "Legacy",
+  "promotion": "AEW",
+  "era": "Classic"
+ },
+ {
+  "id": 1427703472,
+  "wrestler": "British Bulldog",
+  "aliases": [
+   "Davey Boy Smith"
+  ],
+  "song": "Bulldog",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506858,
+  "wrestler": "Ken Shamrock",
+  "aliases": [],
+  "song": "Dangerous",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549321,
+  "wrestler": "Ken Shamrock",
+  "aliases": [],
+  "song": "The Ultimate",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506848,
+  "wrestler": "Ahmed Johnson",
+  "aliases": [],
+  "song": "Pearl River Rip",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1185077429,
+  "wrestler": "Bam Bam Bigelow",
+  "aliases": [],
+  "song": "Hardwood",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1211469049,
+  "wrestler": "Bam Bam Bigelow",
+  "aliases": [],
+  "song": "Bam Bam",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1211468961,
+  "wrestler": "Big Boss Man",
+  "aliases": [],
+  "song": "Guard",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 805085882,
+  "wrestler": "Sgt. Slaughter",
+  "aliases": [],
+  "song": "Hard Corps",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1185077422,
+  "wrestler": "Iron Sheik",
+  "aliases": [
+   "The Iron Sheik"
+  ],
+  "song": "Desert Threat",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1463847711,
+  "wrestler": "Jerry Lawler",
+  "aliases": [
+   "The King"
+  ],
+  "song": "Kingdom Come",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1271429110,
+  "wrestler": "Jeff Jarrett",
+  "aliases": [
+   "Double J"
+  ],
+  "song": "Urban Cowboy",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1427703479,
+  "wrestler": "Jeff Jarrett",
+  "aliases": [
+   "Double J"
+  ],
+  "song": "Double J",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1185077426,
+  "wrestler": "Tatanka",
+  "aliases": [],
+  "song": "Buffalo",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1539215428,
+  "wrestler": "Tatanka",
+  "aliases": [],
+  "song": "War Cry",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1271429104,
+  "wrestler": "Doink the Clown",
+  "aliases": [
+   "Doink"
+  ],
+  "song": "Evil Behind the Makeup",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1211468965,
+  "wrestler": "Papa Shango",
+  "aliases": [],
+  "song": "Shango Tango",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1211469047,
+  "wrestler": "Texas Tornado",
+  "aliases": [
+   "Kerry Von Erich"
+  ],
+  "song": "Storm",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1314592359,
+  "wrestler": "Lex Luger",
+  "aliases": [],
+  "song": "Made in the USA",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 853467467,
+  "wrestler": "Lex Luger",
+  "aliases": [],
+  "song": "Total Package",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1185077423,
+  "wrestler": "Ricky Steamboat",
+  "aliases": [
+   "Ricky The Dragon Steamboat"
+  ],
+  "song": "Dragon",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1271429105,
+  "wrestler": "Rick Martel",
+  "aliases": [
+   "Rick The Model Martel"
+  ],
+  "song": "Model",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1427703480,
+  "wrestler": "Brother Love",
+  "aliases": [],
+  "song": "Love My Brother",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 6773868635,
+  "wrestler": "Bushwhackers",
+  "aliases": [
+   "The Bushwhackers"
+  ],
+  "song": "Walkabout",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549381,
+  "wrestler": "Val Venis",
+  "aliases": [],
+  "song": "Hello Ladies",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549337,
+  "wrestler": "The Godfather",
+  "aliases": [
+   "Godfather"
+  ],
+  "song": "The Ho Train",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506951,
+  "wrestler": "D'Lo Brown",
+  "aliases": [
+   "D’Lo Brown"
+  ],
+  "song": "Danger At The Door",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 219861441,
+  "wrestler": "Faarooq",
+  "aliases": [
+   "Ron Simmons"
+  ],
+  "song": "Damn",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 548708972,
+  "wrestler": "The APA",
+  "aliases": [
+   "APA",
+   "Acolytes"
+  ],
+  "song": "Protection",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1271429109,
+  "wrestler": "Nation of Domination",
+  "aliases": [
+   "The Nation",
+   "Nation"
+  ],
+  "song": "Enough is Enough",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1495889564,
+  "wrestler": "Nation of Domination",
+  "aliases": [
+   "The Nation",
+   "Nation"
+  ],
+  "song": "We Are the Nation",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1094335717,
+  "wrestler": "The Ministry of Darkness",
+  "aliases": [
+   "Ministry of Darkness"
+  ],
+  "song": "Dark Side V2",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506994,
+  "wrestler": "Rikishi",
+  "aliases": [],
+  "song": "Bad Man",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506995,
+  "wrestler": "Too Cool",
+  "aliases": [],
+  "song": "Turn It Up",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549483,
+  "wrestler": "Scotty 2 Hotty",
+  "aliases": [],
+  "song": "Bangin It",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506946,
+  "wrestler": "Test",
+  "aliases": [],
+  "song": "This Is A Test",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 538506965,
+  "wrestler": "Tazz",
+  "aliases": [
+   "Taz"
+  ],
+  "song": "If You Dare",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1502442739,
+  "wrestler": "Tazz",
+  "aliases": [
+   "Taz"
+  ],
+  "song": "Path of Rage",
+  "promotion": "AEW",
+  "era": "Classic"
+ },
+ {
+  "id": 548841243,
+  "wrestler": "Raven",
+  "aliases": [],
+  "song": "What About Me?",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1211468980,
+  "wrestler": "Al Snow",
+  "aliases": [],
+  "song": "Snow-Man",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1081063074,
+  "wrestler": "Dudley Boyz",
+  "aliases": [
+   "The Dudley Boyz"
+  ],
+  "song": "We're Coming Down",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549390,
+  "wrestler": "William Regal",
+  "aliases": [],
+  "song": "Real Man's Man",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549333,
+  "wrestler": "Gangrel",
+  "aliases": [],
+  "song": "Blood",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 6773868749,
+  "wrestler": "Sable",
+  "aliases": [],
+  "song": "Wild Cat",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 6773868647,
+  "wrestler": "Sunny",
+  "aliases": [],
+  "song": "I Know You Want Me",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549198,
+  "wrestler": "Torrie Wilson",
+  "aliases": [],
+  "song": "Need a Little Time",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1439624044,
+  "wrestler": "Stacy Keibler",
+  "aliases": [],
+  "song": "The Girl Next Door",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 399693342,
+  "wrestler": "Victoria",
+  "aliases": [],
+  "song": "Don't Mess With",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1439624049,
+  "wrestler": "Molly Holly",
+  "aliases": [],
+  "song": "Molly Holly",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1439624050,
+  "wrestler": "Ivory",
+  "aliases": [],
+  "song": "Made of Ivory",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1211469016,
+  "wrestler": "Jacqueline",
+  "aliases": [],
+  "song": "Pretty Mean Sister",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 880350041,
+  "wrestler": "Evolution",
+  "aliases": [],
+  "song": "Line In the Sand",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 512318036,
+  "wrestler": "JBL",
+  "aliases": [
+   "John Bradshaw Layfield"
+  ],
+  "song": "Longhorn",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 404193341,
+  "wrestler": "Carlito",
+  "aliases": [],
+  "song": "Quien Soy Yo / Who Am I",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 805085600,
+  "wrestler": "Umaga",
+  "aliases": [],
+  "song": "Tribal Trouble",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 442419947,
+  "wrestler": "The Great Khali",
+  "aliases": [
+   "Great Khali"
+  ],
+  "song": "Land of Five Rivers",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 621624919,
+  "wrestler": "Mr. Kennedy",
+  "aliases": [
+   "Ken Anderson"
+  ],
+  "song": "Turn Up the Trouble",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 219862501,
+  "wrestler": "Finlay",
+  "aliases": [],
+  "song": "Lambeg",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 219864697,
+  "wrestler": "Bobby Lashley",
+  "aliases": [
+   "Lashley"
+  ],
+  "song": "Unstoppable",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1427703471,
+  "wrestler": "Bobby Lashley",
+  "aliases": [
+   "Lashley"
+  ],
+  "song": "Hell Will Be Calling Your Name",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 404193349,
+  "wrestler": "MVP",
+  "aliases": [
+   "M.V.P."
+  ],
+  "song": "I'm Comin'",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1495889571,
+  "wrestler": "Santino Marella",
+  "aliases": [],
+  "song": "Milan Miracle",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1185077425,
+  "wrestler": "The Boogeyman",
+  "aliases": [
+   "Boogeyman"
+  ],
+  "song": "The Horror",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 621624926,
+  "wrestler": "Hornswoggle",
+  "aliases": [],
+  "song": "Hes Ma Da",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 219860602,
+  "wrestler": "Elijah Burke",
+  "aliases": [],
+  "song": "Don't Waste My Time",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1314592513,
+  "wrestler": "Chris Masters",
+  "aliases": [],
+  "song": "Masterpiece",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 585439824,
+  "wrestler": "Melina",
+  "aliases": [],
+  "song": "Paparazzi",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 219865221,
+  "wrestler": "Mickie James",
+  "aliases": [],
+  "song": "Obsession",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 621624901,
+  "wrestler": "Beth Phoenix",
+  "aliases": [],
+  "song": "Glamazon",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 219860307,
+  "wrestler": "Michelle McCool",
+  "aliases": [],
+  "song": "Not Enough for Me",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 404193362,
+  "wrestler": "Maria",
+  "aliases": [],
+  "song": "With Legs Like That",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 219866255,
+  "wrestler": "Ashley",
+  "aliases": [],
+  "song": "Light a Fire",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 621624916,
+  "wrestler": "Candice Michelle",
+  "aliases": [
+   "Candice"
+  ],
+  "song": "What Love Is",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 805085277,
+  "wrestler": "Kelly Kelly",
+  "aliases": [],
+  "song": "Holla",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 6773866320,
+  "wrestler": "Maryse",
+  "aliases": [],
+  "song": "Pourquoi?",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 805085544,
+  "wrestler": "Eve",
+  "aliases": [
+   "Eve Torres"
+  ],
+  "song": "She Looks Good",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 399693360,
+  "wrestler": "Gail Kim",
+  "aliases": [],
+  "song": "International Woman",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 219864454,
+  "wrestler": "The Hurricane",
+  "aliases": [
+   "Hurricane",
+   "Gregory Helms"
+  ],
+  "song": "It's Time",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 79549189,
+  "wrestler": "The Hurricane",
+  "aliases": [
+   "Hurricane",
+   "Gregory Helms"
+  ],
+  "song": "Eye of the Hurricane",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1185077430,
+  "wrestler": "Tajiri",
+  "aliases": [],
+  "song": "Green Mist",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 399693344,
+  "wrestler": "Shelton Benjamin",
+  "aliases": [],
+  "song": "Ain't No Stoppin' Me",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1782572169,
+  "wrestler": "Shelton Benjamin",
+  "aliases": [],
+  "song": "Shining Forever",
+  "promotion": "AEW",
+  "era": "Classic"
+ },
+ {
+  "id": 399693320,
+  "wrestler": "Chavo Guerrero",
+  "aliases": [],
+  "song": "Chavito Ardiente",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 857570727,
+  "wrestler": "Jack Swagger",
+  "aliases": [],
+  "song": "Patriot",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 805085598,
+  "wrestler": "Jack Swagger",
+  "aliases": [],
+  "song": "Get On Your Knees",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 621624917,
+  "wrestler": "John Morrison",
+  "aliases": [],
+  "song": "Ain't No Make Believe",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 853467400,
+  "wrestler": "nWo",
+  "aliases": [
+   "New World Order",
+   "nWo Wolfpac"
+  ],
+  "song": "Wolfpac",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1504121225,
+  "wrestler": "nWo",
+  "aliases": [
+   "New World Order",
+   "nWo Wolfpac"
+  ],
+  "song": "It's a New World",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 512318032,
+  "wrestler": "The Four Horsemen",
+  "aliases": [
+   "Four Horsemen"
+  ],
+  "song": "Horse",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 512318033,
+  "wrestler": "Dusty Rhodes",
+  "aliases": [
+   "The American Dream"
+  ],
+  "song": "Common Man Boogie",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 920419975,
+  "wrestler": "Fabulous Freebirds",
+  "aliases": [
+   "The Fabulous Freebirds",
+   "Freebirds"
+  ],
+  "song": "Badstreet U.S.A.",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 969138262,
+  "wrestler": "Sting",
+  "aliases": [],
+  "song": "Out From the Shadows",
+  "promotion": "WWE",
+  "era": "Classic"
+ },
+ {
+  "id": 1544552463,
+  "wrestler": "Sting",
+  "aliases": [],
+  "song": "Arrival",
+  "promotion": "AEW",
+  "era": "Classic"
+ },
+ {
+  "id": 441236290,
+  "wrestler": "The Miz",
+  "aliases": [
+   "Miz"
+  ],
+  "song": "I Came to Play",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 467151077,
+  "wrestler": "R-Truth",
+  "aliases": [],
+  "song": "What's Up?",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 621624898,
+  "wrestler": "Kofi Kingston",
+  "aliases": [
+   "Kofi"
+  ],
+  "song": "SOS",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 948034807,
+  "wrestler": "The New Day",
+  "aliases": [
+   "New Day"
+  ],
+  "song": "New Day, New Way",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1545638849,
+  "wrestler": "Big E",
+  "aliases": [
+   "Big E Langston"
+  ],
+  "song": "Feel The Power",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 857570767,
+  "wrestler": "Xavier Woods",
+  "aliases": [],
+  "song": "Somebody Call My Momma",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 399681721,
+  "wrestler": "Dolph Ziggler",
+  "aliases": [],
+  "song": "I Am Perfection",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 857570740,
+  "wrestler": "Dolph Ziggler",
+  "aliases": [],
+  "song": "Here To Show the World",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 399681734,
+  "wrestler": "Sheamus",
+  "aliases": [],
+  "song": "Written In My Face",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 630110927,
+  "wrestler": "Wade Barrett",
+  "aliases": [],
+  "song": "Just Don't Care Anymore",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 512318042,
+  "wrestler": "Alberto Del Rio",
+  "aliases": [],
+  "song": "Realeza",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1143476258,
+  "wrestler": "Cody Rhodes",
+  "aliases": [
+   "Cody",
+   "Stardust"
+  ],
+  "song": "Kingdom",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 483982307,
+  "wrestler": "Cody Rhodes",
+  "aliases": [
+   "Cody",
+   "Stardust"
+  ],
+  "song": "Smoke and Mirrors",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 894193007,
+  "wrestler": "Cody Rhodes",
+  "aliases": [
+   "Cody",
+   "Stardust"
+  ],
+  "song": "Written in the Stars",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1495889560,
+  "wrestler": "Ted DiBiase Jr.",
+  "aliases": [],
+  "song": "Million Dollar Baby",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 399681717,
+  "wrestler": "The Legacy",
+  "aliases": [
+   "Legacy"
+  ],
+  "song": "It's a New Day",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 193145050,
+  "wrestler": "CM Punk",
+  "aliases": [
+   "Punk"
+  ],
+  "song": "Cult of Personality",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 404193367,
+  "wrestler": "CM Punk",
+  "aliases": [
+   "Punk"
+  ],
+  "song": "This Fire Burns",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 399681754,
+  "wrestler": "Zack Ryder",
+  "aliases": [
+   "Matt Cardona"
+  ],
+  "song": "Radio",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 857570719,
+  "wrestler": "Ryback",
+  "aliases": [],
+  "song": "Meat On the Table",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 857570744,
+  "wrestler": "Damien Sandow",
+  "aliases": [],
+  "song": "Hallelujah",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 857570742,
+  "wrestler": "Fandango",
+  "aliases": [],
+  "song": "ChaChaLaLa",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 857570703,
+  "wrestler": "Daniel Bryan",
+  "aliases": [
+   "Bryan Danielson"
+  ],
+  "song": "Flight of the Valkyries",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 196480329,
+  "wrestler": "Daniel Bryan",
+  "aliases": [
+   "Bryan Danielson"
+  ],
+  "song": "The Final Countdown",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 598836375,
+  "wrestler": "The Shield",
+  "aliases": [
+   "Shield"
+  ],
+  "song": "Special Op",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1565889946,
+  "wrestler": "Roman Reigns",
+  "aliases": [
+   "Roman"
+  ],
+  "song": "Head of the Table",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1762712562,
+  "wrestler": "Roman Reigns",
+  "aliases": [
+   "Roman"
+  ],
+  "song": "I Am Greatness",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 891070198,
+  "wrestler": "Seth Rollins",
+  "aliases": [
+   "Seth Freakin Rollins"
+  ],
+  "song": "The Second Coming",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1779967804,
+  "wrestler": "Seth Rollins",
+  "aliases": [
+   "Seth Freakin Rollins"
+  ],
+  "song": "The Vision",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1657753416,
+  "wrestler": "Bray Wyatt",
+  "aliases": [
+   "The Fiend"
+  ],
+  "song": "Shatter",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 857570726,
+  "wrestler": "AJ Lee",
+  "aliases": [],
+  "song": "Let's Light It Up",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 6774239768,
+  "wrestler": "Paige",
+  "aliases": [
+   "Saraya"
+  ],
+  "song": "Stars in the Night",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1439624231,
+  "wrestler": "Emma",
+  "aliases": [],
+  "song": "Who's That Girl",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 443170907,
+  "wrestler": "Natalya",
+  "aliases": [
+   "Nattie"
+  ],
+  "song": "New Foundation",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1322661759,
+  "wrestler": "Tamina",
+  "aliases": [
+   "Tamina Snuka"
+  ],
+  "song": "What You Think",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 918294343,
+  "wrestler": "The Bella Twins",
+  "aliases": [
+   "Bella Twins",
+   "Nikki Bella",
+   "Brie Bella"
+  ],
+  "song": "Beautiful Life",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 399681762,
+  "wrestler": "The Bella Twins",
+  "aliases": [
+   "Bella Twins",
+   "Nikki Bella",
+   "Brie Bella"
+  ],
+  "song": "You Can Look - But You Can't Touch",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 829080641,
+  "wrestler": "Summer Rae",
+  "aliases": [],
+  "song": "Rush of Power",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1817693850,
+  "wrestler": "Rusev",
+  "aliases": [
+   "Miro"
+  ],
+  "song": "I Am The Tempest",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1587115424,
+  "wrestler": "Rusev",
+  "aliases": [
+   "Miro"
+  ],
+  "song": "Redeemer",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1633287882,
+  "wrestler": "Claudio Castagnoli",
+  "aliases": [
+   "Cesaro"
+  ],
+  "song": "Uppercut Swingphony",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 826667575,
+  "wrestler": "Titus O'Neil",
+  "aliases": [
+   "Titus O’Neil"
+  ],
+  "song": "Let Me Show You How",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 742818098,
+  "wrestler": "Tyson Kidd",
+  "aliases": [],
+  "song": "Right Here, Right Now",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 476097084,
+  "wrestler": "The Usos",
+  "aliases": [
+   "Usos"
+  ],
+  "song": "So Close Now",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1165436179,
+  "wrestler": "The Usos",
+  "aliases": [
+   "Usos"
+  ],
+  "song": "Done with That",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1706908667,
+  "wrestler": "Jey Uso",
+  "aliases": [
+   "Main Event Jey"
+  ],
+  "song": "Main Event Ish",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1706907809,
+  "wrestler": "Jimmy Uso",
+  "aliases": [],
+  "song": "Born a King",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1651465689,
+  "wrestler": "Solo Sikoa",
+  "aliases": [],
+  "song": "Taking It All",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1760798448,
+  "wrestler": "Jacob Fatu",
+  "aliases": [],
+  "song": "Samoan Destroyer",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1079614536,
+  "wrestler": "AJ Styles",
+  "aliases": [],
+  "song": "Phenomenal",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1741824718,
+  "wrestler": "AJ Styles",
+  "aliases": [],
+  "song": "You Don't Want None",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1100270265,
+  "wrestler": "Shinsuke Nakamura",
+  "aliases": [
+   "Nakamura"
+  ],
+  "song": "The Rising Sun",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 950842686,
+  "wrestler": "Finn Bálor",
+  "aliases": [
+   "Finn Balor",
+   "Prince Devitt"
+  ],
+  "song": "Catch Your Breath",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1642812964,
+  "wrestler": "Finn Bálor",
+  "aliases": [
+   "Finn Balor",
+   "Prince Devitt"
+  ],
+  "song": "I AM DANGER",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 951108864,
+  "wrestler": "Kevin Owens",
+  "aliases": [
+   "KO"
+  ],
+  "song": "Fight",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 883714256,
+  "wrestler": "Sami Zayn",
+  "aliases": [],
+  "song": "Worlds Apart",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1595654938,
+  "wrestler": "Sami Zayn",
+  "aliases": [],
+  "song": "This Is It",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 953145653,
+  "wrestler": "Becky Lynch",
+  "aliases": [
+   "The Man"
+  ],
+  "song": "Celtic Invasion",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1832827246,
+  "wrestler": "Becky Lynch",
+  "aliases": [
+   "The Man"
+  ],
+  "song": "New Lows",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 883797910,
+  "wrestler": "Charlotte Flair",
+  "aliases": [
+   "Charlotte"
+  ],
+  "song": "Recognition",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 918563200,
+  "wrestler": "Bayley",
+  "aliases": [],
+  "song": "Turn It Up",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1744235515,
+  "wrestler": "Bayley",
+  "aliases": [],
+  "song": "Role Model",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1061312405,
+  "wrestler": "Alexa Bliss",
+  "aliases": [],
+  "song": "Spiteful",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1554554934,
+  "wrestler": "Alexa Bliss",
+  "aliases": [],
+  "song": "The Fury",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1676145644,
+  "wrestler": "Asuka",
+  "aliases": [],
+  "song": "You Can't Hide",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1519333141,
+  "wrestler": "IYO SKY",
+  "aliases": [
+   "Io Shirai"
+  ],
+  "song": "Tokyo Shock",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1445930127,
+  "wrestler": "IYO SKY",
+  "aliases": [
+   "Io Shirai"
+  ],
+  "song": "Genius of the Sky",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1445919721,
+  "wrestler": "Rhea Ripley",
+  "aliases": [
+   "Mami"
+  ],
+  "song": "Brutality",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1378429996,
+  "wrestler": "Bianca Belair",
+  "aliases": [],
+  "song": "Watch Me Shine",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1893755248,
+  "wrestler": "Liv Morgan",
+  "aliases": [],
+  "song": "Trouble",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1657277127,
+  "wrestler": "Liv Morgan",
+  "aliases": [],
+  "song": "Liv Gone Mad",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1735753816,
+  "wrestler": "Naomi",
+  "aliases": [],
+  "song": "Glow",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1710647721,
+  "wrestler": "Nia Jax",
+  "aliases": [],
+  "song": "Not Like Most Girls",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1346109048,
+  "wrestler": "Drew McIntyre",
+  "aliases": [],
+  "song": "Broken Dreams",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1226514053,
+  "wrestler": "Drew McIntyre",
+  "aliases": [],
+  "song": "Gallantry",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1141461880,
+  "wrestler": "Bobby Roode",
+  "aliases": [],
+  "song": "Glorious Domination",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1239447840,
+  "wrestler": "Pete Dunne",
+  "aliases": [
+   "Butch"
+  ],
+  "song": "Bruiserweight",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 6773866594,
+  "wrestler": "Tyler Bate",
+  "aliases": [],
+  "song": "Inaugural",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1269236355,
+  "wrestler": "Street Profits",
+  "aliases": [
+   "The Street Profits"
+  ],
+  "song": "Bring the Swag",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1718627761,
+  "wrestler": "Street Profits",
+  "aliases": [
+   "The Street Profits"
+  ],
+  "song": "We Want Smoke",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1385158503,
+  "wrestler": "The Viking Raiders",
+  "aliases": [
+   "Viking Raiders",
+   "War Raiders"
+  ],
+  "song": "War",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1032035568,
+  "wrestler": "Chad Gable",
+  "aliases": [],
+  "song": "Elite",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 6799133036,
+  "wrestler": "Chad Gable",
+  "aliases": [],
+  "song": "Highway To The Sky",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1742858250,
+  "wrestler": "Damian Priest",
+  "aliases": [],
+  "song": "Rise For The Night",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1525778595,
+  "wrestler": "Damian Priest",
+  "aliases": [],
+  "song": "Infamy",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1794402614,
+  "wrestler": "The Judgment Day",
+  "aliases": [
+   "Judgment Day"
+  ],
+  "song": "Rulers Of The World",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1671217970,
+  "wrestler": "Dominik Mysterio",
+  "aliases": [
+   "Dirty Dom"
+  ],
+  "song": "It Is My Time",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1634017945,
+  "wrestler": "Gunther",
+  "aliases": [
+   "Walter"
+  ],
+  "song": "Prepare To Fight",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1624786057,
+  "wrestler": "Gunther",
+  "aliases": [
+   "Walter"
+  ],
+  "song": "General",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1719327366,
+  "wrestler": "Ludwig Kaiser",
+  "aliases": [],
+  "song": "Sacred",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1695926410,
+  "wrestler": "LA Knight",
+  "aliases": [
+   "Eli Drake"
+  ],
+  "song": "Welcome To LA",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1811210648,
+  "wrestler": "Logan Paul",
+  "aliases": [],
+  "song": "Still Humble",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1681879723,
+  "wrestler": "Logan Paul",
+  "aliases": [],
+  "song": "Take Flight",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1640107112,
+  "wrestler": "Pat McAfee",
+  "aliases": [],
+  "song": "The Anomaly",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1612893069,
+  "wrestler": "Austin Theory",
+  "aliases": [
+   "Theory"
+  ],
+  "song": "A-Town Down",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1762037729,
+  "wrestler": "Bron Breakker",
+  "aliases": [],
+  "song": "Breakk And Destroy",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1669824399,
+  "wrestler": "Bronson Reed",
+  "aliases": [],
+  "song": "Battle Tested",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1584422553,
+  "wrestler": "Omos",
+  "aliases": [],
+  "song": "Shake the Ground",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1735758884,
+  "wrestler": "Tiffany Stratton",
+  "aliases": [
+   "Tiffy"
+  ],
+  "song": "Tiffy Time",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1683889940,
+  "wrestler": "Chelsea Green",
+  "aliases": [],
+  "song": "Hot Mess",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1709559006,
+  "wrestler": "Trick Williams",
+  "aliases": [],
+  "song": "Locked In",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1681862894,
+  "wrestler": "Carmelo Hayes",
+  "aliases": [
+   "Melo"
+  ],
+  "song": "Melo Don't Miss",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1657278902,
+  "wrestler": "Johnny Gargano",
+  "aliases": [],
+  "song": "Bet On Yourself",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1684963618,
+  "wrestler": "Grayson Waller",
+  "aliases": [],
+  "song": "Eye On the Prize",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1646678679,
+  "wrestler": "Damage CTRL",
+  "aliases": [],
+  "song": "We Got the Rage",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1803673410,
+  "wrestler": "Raquel Rodriguez",
+  "aliases": [],
+  "song": "La Mas Ruda",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1740626784,
+  "wrestler": "Jade Cargill",
+  "aliases": [],
+  "song": "A Storm Is Coming",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1588443487,
+  "wrestler": "Jade Cargill",
+  "aliases": [],
+  "song": "Epic",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1800570887,
+  "wrestler": "Penta",
+  "aliases": [
+   "Penta El Zero Miedo",
+   "Pentagon Jr."
+  ],
+  "song": "Zero Miedo",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1810491153,
+  "wrestler": "Rey Fenix",
+  "aliases": [
+   "Fenix"
+  ],
+  "song": "Animo",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1775776798,
+  "wrestler": "Giulia",
+  "aliases": [],
+  "song": "Time Of Arrival",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1890238166,
+  "wrestler": "Stephanie Vaquer",
+  "aliases": [],
+  "song": "La Primera",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1628837375,
+  "wrestler": "Roxanne Perez",
+  "aliases": [],
+  "song": "All Fall Down",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1670177830,
+  "wrestler": "Lyra Valkyria",
+  "aliases": [],
+  "song": "Triumph",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1698201980,
+  "wrestler": "Pretty Deadly",
+  "aliases": [],
+  "song": "On and On",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1787465718,
+  "wrestler": "Ricochet",
+  "aliases": [],
+  "song": "Into The Rico-Verse",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1494993750,
+  "wrestler": "Kenny Omega",
+  "aliases": [],
+  "song": "Battle Cry",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1484293637,
+  "wrestler": "Darby Allin",
+  "aliases": [],
+  "song": "I Fell",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1533431980,
+  "wrestler": "Orange Cassidy",
+  "aliases": [
+   "OC"
+  ],
+  "song": "Juicy",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1586119289,
+  "wrestler": "Adam Cole",
+  "aliases": [],
+  "song": "All About Tha (Boom!)",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1708944594,
+  "wrestler": "MJF",
+  "aliases": [
+   "Maxwell Jacob Friedman"
+  ],
+  "song": "The Devil's Trick",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1739884032,
+  "wrestler": "The Young Bucks",
+  "aliases": [
+   "Young Bucks",
+   "Matt and Nick Jackson"
+  ],
+  "song": "You Leave Us No Choice",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1527356549,
+  "wrestler": "Britt Baker",
+  "aliases": [
+   "Dr. Britt Baker"
+  ],
+  "song": "Roll Model",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1723914537,
+  "wrestler": "Toni Storm",
+  "aliases": [
+   "Timeless Toni Storm"
+  ],
+  "song": "Somewhere In A Dream",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1586373691,
+  "wrestler": "Jamie Hayter",
+  "aliases": [],
+  "song": "Indignation",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1531248659,
+  "wrestler": "Thunder Rosa",
+  "aliases": [],
+  "song": "Blood and Glory",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1620621118,
+  "wrestler": "Kris Statlander",
+  "aliases": [],
+  "song": "Cauterize",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1640176339,
+  "wrestler": "Julia Hart",
+  "aliases": [],
+  "song": "Harder Hart",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1535829355,
+  "wrestler": "Eddie Kingston",
+  "aliases": [],
+  "song": "Cold World",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1588793959,
+  "wrestler": "FTR",
+  "aliases": [
+   "The Revival"
+  ],
+  "song": "Darkside of T R",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1566804312,
+  "wrestler": "Lucha Bros",
+  "aliases": [
+   "Lucha Brothers"
+  ],
+  "song": "Zero Miedo",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1506438816,
+  "wrestler": "Death Triangle",
+  "aliases": [],
+  "song": "Death Triangle",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1616897715,
+  "wrestler": "Pac",
+  "aliases": [
+   "Neville",
+   "Bastard Pac"
+  ],
+  "song": "Out of Time 2.0",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1505001515,
+  "wrestler": "Wardlow",
+  "aliases": [],
+  "song": "This Is War",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1618372645,
+  "wrestler": "Samoa Joe",
+  "aliases": [],
+  "song": "Coliseum Clash",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1610374354,
+  "wrestler": "Keith Lee",
+  "aliases": [
+   "Limitless Keith Lee"
+  ],
+  "song": "I Am",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1525622719,
+  "wrestler": "Ricky Starks",
+  "aliases": [],
+  "song": "It's Live",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1589161816,
+  "wrestler": "Powerhouse Hobbs",
+  "aliases": [
+   "Will Hobbs"
+  ],
+  "song": "P-P-P-P-Powerhouse",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1891413160,
+  "wrestler": "Danhausen",
+  "aliases": [],
+  "song": "You Are Cursed",
+  "promotion": "WWE",
+  "era": "Modern"
+ },
+ {
+  "id": 1624769509,
+  "wrestler": "Danhausen",
+  "aliases": [],
+  "song": "The Danhausen Show",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1500906603,
+  "wrestler": "Dark Order",
+  "aliases": [],
+  "song": "Join Us",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1510695657,
+  "wrestler": "Brodie Lee",
+  "aliases": [
+   "Luke Harper"
+  ],
+  "song": "He Is Exalted",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1555449108,
+  "wrestler": "Jungle Boy",
+  "aliases": [
+   "Jack Perry"
+  ],
+  "song": "Jungle Run",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1492501476,
+  "wrestler": "Jurassic Express",
+  "aliases": [],
+  "song": "Jurassic Express Theme",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1502440998,
+  "wrestler": "Best Friends",
+  "aliases": [],
+  "song": "Best Friends Theme",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1510731374,
+  "wrestler": "Inner Circle",
+  "aliases": [
+   "The Inner Circle"
+  ],
+  "song": "Inner Circle Theme",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1586106331,
+  "wrestler": "Andrade El Idolo",
+  "aliases": [
+   "Andrade"
+  ],
+  "song": "Kill the Messenger",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1616239437,
+  "wrestler": "Jay Lethal",
+  "aliases": [],
+  "song": "Lethal Injection",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1555449117,
+  "wrestler": "Christopher Daniels",
+  "aliases": [],
+  "song": "Fallen Angel",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1555449107,
+  "wrestler": "Sammy Guevara",
+  "aliases": [],
+  "song": "The World Is Mine",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1663633347,
+  "wrestler": "Konosuke Takeshita",
+  "aliases": [
+   "Takeshita"
+  ],
+  "song": "Face-Off",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1587034333,
+  "wrestler": "Daniel Garcia",
+  "aliases": [],
+  "song": "Crimson Extinction",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1762763786,
+  "wrestler": "Mariah May",
+  "aliases": [],
+  "song": "Dream Over",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1635564074,
+  "wrestler": "Athena",
+  "aliases": [],
+  "song": "The Fallen Goddess",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1747375373,
+  "wrestler": "Kyle O'Reilly",
+  "aliases": [],
+  "song": "In the Trenches",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1857003658,
+  "wrestler": "Bandido",
+  "aliases": [],
+  "song": "Los Mas Buscados",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1887592553,
+  "wrestler": "Komander",
+  "aliases": [],
+  "song": "Paseo Aéreo",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1500921491,
+  "wrestler": "Nyla Rose",
+  "aliases": [],
+  "song": "Beast Bomb",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1533495510,
+  "wrestler": "Anna Jay",
+  "aliases": [],
+  "song": "Queen Slayer",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1507585509,
+  "wrestler": "Penelope Ford",
+  "aliases": [],
+  "song": "Super Bad Girl",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1524366697,
+  "wrestler": "Scorpio Sky",
+  "aliases": [],
+  "song": "Reach for the Sky",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1499913401,
+  "wrestler": "Dustin Rhodes",
+  "aliases": [],
+  "song": "Natural",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1503905202,
+  "wrestler": "Arn Anderson",
+  "aliases": [],
+  "song": "Double A",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1501749217,
+  "wrestler": "Big Swole",
+  "aliases": [],
+  "song": "Swole World",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1630301386,
+  "wrestler": "Serena Deeb",
+  "aliases": [],
+  "song": "The Professor",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1874046719,
+  "wrestler": "Tommaso Ciampa",
+  "aliases": [],
+  "song": "My Shadow Knows",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1726117312,
+  "wrestler": "Undisputed Kingdom",
+  "aliases": [],
+  "song": "Devil Rising",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1646261070,
+  "wrestler": "Kip Sabian",
+  "aliases": [],
+  "song": "Over It",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1524162179,
+  "wrestler": "Brian Cage",
+  "aliases": [],
+  "song": "Path of Cage",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1505396137,
+  "wrestler": "Jake Hager",
+  "aliases": [],
+  "song": "I Got 'Em Hurt",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1504579913,
+  "wrestler": "Matt Hardy",
+  "aliases": [
+   "Broken Matt Hardy"
+  ],
+  "song": "Rise of Damascus",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1544004482,
+  "wrestler": "Lee Johnson",
+  "aliases": [],
+  "song": "One Shot",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1725020947,
+  "wrestler": "Skye Blue",
+  "aliases": [],
+  "song": "Choke",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1698099326,
+  "wrestler": "Big Bill",
+  "aliases": [],
+  "song": "A Long Way Down",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1554733161,
+  "wrestler": "Gunn Club",
+  "aliases": [],
+  "song": "Locked and Loaded",
+  "promotion": "AEW",
+  "era": "Modern"
+ },
+ {
+  "id": 1734664367,
+  "wrestler": "Bang Bang Gang",
+  "aliases": [],
+  "song": "Burnin' Daylight",
+  "promotion": "AEW",
+  "era": "Modern"
+ }
+]

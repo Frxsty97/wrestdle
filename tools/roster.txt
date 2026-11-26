@@ -1,0 +1,281 @@
+# Source list for data/themes.json — edit this, then run: python3 tools/build_data.py
+# Format: Wrestler|Era|alias1,alias2|Song title#iTunesTrackId#W-or-A ;; another theme...
+# W = WWE/WWF, A = AEW. Era is Classic or Modern.
+Stone Cold Steve Austin|Classic|Steve Austin,Stone Cold|Hell Frozen Over#538506847#W ;; I Won't Do What You Tell Me#443701280#W
+The Rock|Classic|Rocky Maivia,Dwayne Johnson|If You Smell#445886250#W ;; Electrifying#428254346#W
+Triple H|Classic|Hunter Hearst Helmsley,HHH|The Game#442415865#W ;; King of Kings#443940399#W
+The Undertaker|Classic|Undertaker,Taker|Rest In Peace#443934704#W ;; Dark Side#538506846#W
+Shawn Michaels|Classic|HBK|Sexy Boy#443938602#W
+Bret Hart|Classic|Bret Hitman Hart,The Hitman|Hart Attack#538506836#W ;; Return the Hitman#442414438#W
+Kane|Classic||Veil of Fire#490681439#W ;; Out Of The Fire#538506980#W
+Mankind|Classic|Mick Foley,Dude Love,Cactus Jack|Wreck#538145996#W ;; Ode to Freud#538506852#W
+Chris Jericho|Classic|Y2J|Break the Walls Down#585439818#W ;; Judas#1278081276#A
+Kurt Angle|Classic||Medal#1382308075#W ;; I Don't Suck#79549395#W
+Edge|Classic|Adam Copeland|Metalingus#1440631757#W ;; You Think You Know Me#79549328#W
+Christian|Classic|Christian Cage|Just Close Your Eyes#688609258#W ;; Blood Brother#512317940#W
+Eddie Guerrero|Classic||Latino Heat#538506981#W ;; Viva La Raza#1185077421#W
+Rey Mysterio|Classic||619#443165164#W ;; Booyaka 619#404193371#W
+Batista|Classic|Dave Bautista|I Walk Alone#585439816#W ;; Animal#1271429443#W
+Randy Orton|Classic||Voices#440424769#W ;; Burn In My Light#404193320#W
+John Cena|Classic||The Time Is Now#445878844#W
+Brock Lesnar|Classic||Next Big Thing#517734584#W
+Big Show|Classic|The Big Show,Paul Wight|Crank It Up#857570769#W ;; Big#548830266#W
+Mark Henry|Classic||Some Bodies Gonna Get It#404193357#W ;; Sexual Chocolate#79549425#W
+Booker T|Classic||G.I. Bro#853467457#W
+Rob Van Dam|Classic|RVD|One of a Kind#689482776#W ;; Dam-Nation#1211468959#W
+Jeff Hardy|Classic||No More Words#621624895#W
+Lita|Classic||It Just Feels Right#79549421#W ;; LoveFuryPassionEnergy#857570714#W
+Trish Stratus|Classic||Time to Rock and Roll#79549185#W
+Chyna|Classic||Who I Am#538506985#W
+D-Generation X|Classic|DX|Are You Ready?#445877785#W ;; Break It Down#79549273#W
+New Age Outlaws|Classic|The New Age Outlaws|Oh You Didn't Know#79549346#W
+Road Dogg|Classic||With My Baby Tonight#6773868748#W
+Billy Gunn|Classic|Mr. Ass,The One Billy Gunn|AssMan#538506953#W ;; I've Got It All#538506982#W
+X-Pac|Classic|1-2-3 Kid,Sean Waltman|One Two Three#6773868644#W
+Mr. McMahon|Classic|Vince McMahon|No Chance In Hell#443935799#W
+Shane McMahon|Classic||Here Comes the Money#1094726299#W
+Stephanie McMahon|Classic||Welcome to the Queendom#634533620#W ;; All Grown Up#79549195#W
+Hulk Hogan|Classic|Hollywood Hogan,Hulkster|Real American#879563780#W
+The Ultimate Warrior|Classic|Ultimate Warrior|Unstable#805085880#W
+Macho Man Randy Savage|Classic|Randy Savage,Macho Man|Pomp and Circumstance#853467455#W ;; What Up Mach?#853467474#W
+Jake The Snake Roberts|Classic|Jake Roberts|Snake Bit#445882323#W
+Ted DiBiase|Classic|Million Dollar Man,The Million Dollar Man|It's All About The Money#445885004#W
+Mr. Perfect|Classic|Curt Hennig|Perfection#655303487#W
+Roddy Piper|Classic|Rowdy Roddy Piper|Hot Rod#805085881#W
+Jimmy Snuka|Classic|Superfly|Superfly#445884505#W
+Razor Ramon|Classic|Scott Hall|Bad Boy#538506835#W
+Diesel|Classic|Kevin Nash|Diesel Blues#538506829#W ;; Jackknife#1314592511#W
+Yokozuna|Classic||Sumo#512318037#W
+Vader|Classic||Mastodon#538506851#W
+Sycho Sid|Classic|Psycho Sid,Sid|Snap#538506857#W ;; Psycho-Dance#538506834#W
+Goldust|Classic||Gold-Lust#79549295#W ;; Goldust#538506832#W
+Owen Hart|Classic||Legacy#1620257121#A
+British Bulldog|Classic|Davey Boy Smith|Bulldog#1427703472#W
+Ken Shamrock|Classic||Dangerous#538506858#W ;; The Ultimate#79549321#W
+Ahmed Johnson|Classic||Pearl River Rip#538506848#W
+Bam Bam Bigelow|Classic||Hardwood#1185077429#W ;; Bam Bam#1211469049#W
+Big Boss Man|Classic||Guard#1211468961#W
+Sgt. Slaughter|Classic||Hard Corps#805085882#W
+Iron Sheik|Classic|The Iron Sheik|Desert Threat#1185077422#W
+Jerry Lawler|Classic|The King|Kingdom Come#1463847711#W
+Jeff Jarrett|Classic|Double J|Urban Cowboy#1271429110#W ;; Double J#1427703479#W
+Tatanka|Classic||Buffalo#1185077426#W ;; War Cry#1539215428#W
+Doink the Clown|Classic|Doink|Evil Behind the Makeup#1271429104#W
+Papa Shango|Classic||Shango Tango#1211468965#W
+Texas Tornado|Classic|Kerry Von Erich|Storm#1211469047#W
+Lex Luger|Classic||Made in the USA#1314592359#W ;; Total Package#853467467#W
+Ricky Steamboat|Classic|Ricky The Dragon Steamboat|Dragon#1185077423#W
+Rick Martel|Classic|Rick The Model Martel|Model#1271429105#W
+Brother Love|Classic||Love My Brother#1427703480#W
+Bushwhackers|Classic|The Bushwhackers|Walkabout#6773868635#W
+Val Venis|Classic||Hello Ladies#79549381#W
+The Godfather|Classic|Godfather|The Ho Train#79549337#W
+D'Lo Brown|Classic|D’Lo Brown|Danger At The Door#538506951#W
+Faarooq|Classic|Ron Simmons|Damn#219861441#W
+The APA|Classic|APA,Acolytes|Protection#548708972#W
+Nation of Domination|Classic|The Nation,Nation|Enough is Enough#1271429109#W ;; We Are the Nation#1495889564#W
+The Ministry of Darkness|Classic|Ministry of Darkness|Dark Side V2#1094335717#W
+Rikishi|Classic||Bad Man#538506994#W
+Too Cool|Classic||Turn It Up#538506995#W
+Scotty 2 Hotty|Classic||Bangin It#79549483#W
+Test|Classic||This Is A Test#538506946#W
+Tazz|Classic|Taz|If You Dare#538506965#W ;; Path of Rage#1502442739#A
+Raven|Classic||What About Me?#548841243#W
+Al Snow|Classic||Snow-Man#1211468980#W
+Dudley Boyz|Classic|The Dudley Boyz|We're Coming Down#1081063074#W
+William Regal|Classic||Real Man's Man#79549390#W
+Gangrel|Classic||Blood#79549333#W
+Sable|Classic||Wild Cat#6773868749#W
+Sunny|Classic||I Know You Want Me#6773868647#W
+Torrie Wilson|Classic||Need a Little Time#79549198#W
+Stacy Keibler|Classic||The Girl Next Door#1439624044#W
+Victoria|Classic||Don't Mess With#399693342#W
+Molly Holly|Classic||Molly Holly#1439624049#W
+Ivory|Classic||Made of Ivory#1439624050#W
+Jacqueline|Classic||Pretty Mean Sister#1211469016#W
+Evolution|Classic||Line In the Sand#880350041#W
+JBL|Classic|John Bradshaw Layfield|Longhorn#512318036#W
+Carlito|Classic||Quien Soy Yo / Who Am I#404193341#W
+Umaga|Classic||Tribal Trouble#805085600#W
+The Great Khali|Classic|Great Khali|Land of Five Rivers#442419947#W
+Mr. Kennedy|Classic|Ken Anderson|Turn Up the Trouble#621624919#W
+Finlay|Classic||Lambeg#219862501#W
+Bobby Lashley|Classic|Lashley|Unstoppable#219864697#W ;; Hell Will Be Calling Your Name#1427703471#W
+MVP|Classic|M.V.P.|I'm Comin'#404193349#W
+Santino Marella|Classic||Milan Miracle#1495889571#W
+The Boogeyman|Classic|Boogeyman|The Horror#1185077425#W
+Hornswoggle|Classic||Hes Ma Da#621624926#W
+Elijah Burke|Classic||Don't Waste My Time#219860602#W
+Chris Masters|Classic||Masterpiece#1314592513#W
+Melina|Classic||Paparazzi#585439824#W
+Mickie James|Classic||Obsession#219865221#W
+Beth Phoenix|Classic||Glamazon#621624901#W
+Michelle McCool|Classic||Not Enough for Me#219860307#W
+Maria|Classic||With Legs Like That#404193362#W
+Ashley|Classic||Light a Fire#219866255#W
+Candice Michelle|Classic|Candice|What Love Is#621624916#W
+Kelly Kelly|Classic||Holla#805085277#W
+Maryse|Classic||Pourquoi?#6773866320#W
+Eve|Classic|Eve Torres|She Looks Good#805085544#W
+Gail Kim|Classic||International Woman#399693360#W
+The Hurricane|Classic|Hurricane,Gregory Helms|It's Time#219864454#W ;; Eye of the Hurricane#79549189#W
+Tajiri|Classic||Green Mist#1185077430#W
+Shelton Benjamin|Classic||Ain't No Stoppin' Me#399693344#W ;; Shining Forever#1782572169#A
+Chavo Guerrero|Classic||Chavito Ardiente#399693320#W
+Jack Swagger|Classic||Patriot#857570727#W ;; Get On Your Knees#805085598#W
+John Morrison|Classic||Ain't No Make Believe#621624917#W
+nWo|Classic|New World Order,nWo Wolfpac|Wolfpac#853467400#W ;; It's a New World#1504121225#W
+The Four Horsemen|Classic|Four Horsemen|Horse#512318032#W
+Dusty Rhodes|Classic|The American Dream|Common Man Boogie#512318033#W
+Fabulous Freebirds|Classic|The Fabulous Freebirds,Freebirds|Badstreet U.S.A.#920419975#W
+Sting|Classic||Out From the Shadows#969138262#W ;; Arrival#1544552463#A
+The Miz|Modern|Miz|I Came to Play#441236290#W
+R-Truth|Modern||What's Up?#467151077#W
+Kofi Kingston|Modern|Kofi|SOS#621624898#W
+The New Day|Modern|New Day|New Day, New Way#948034807#W
+Big E|Modern|Big E Langston|Feel The Power#1545638849#W
+Xavier Woods|Modern||Somebody Call My Momma#857570767#W
+Dolph Ziggler|Modern||I Am Perfection#399681721#W ;; Here To Show the World#857570740#W
+Sheamus|Modern||Written In My Face#399681734#W
+Wade Barrett|Modern||Just Don't Care Anymore#630110927#W
+Alberto Del Rio|Modern||Realeza#512318042#W
+Cody Rhodes|Modern|Cody,Stardust|Kingdom#1143476258#W ;; Smoke and Mirrors#483982307#W ;; Written in the Stars#894193007#W
+Ted DiBiase Jr.|Modern||Million Dollar Baby#1495889560#W
+The Legacy|Modern|Legacy|It's a New Day#399681717#W
+CM Punk|Modern|Punk|Cult of Personality#193145050#W ;; This Fire Burns#404193367#W
+Zack Ryder|Modern|Matt Cardona|Radio#399681754#W
+Ryback|Modern||Meat On the Table#857570719#W
+Damien Sandow|Modern||Hallelujah#857570744#W
+Fandango|Modern||ChaChaLaLa#857570742#W
+Daniel Bryan|Modern|Bryan Danielson|Flight of the Valkyries#857570703#W ;; The Final Countdown#196480329#A
+The Shield|Modern|Shield|Special Op#598836375#W
+Roman Reigns|Modern|Roman|Head of the Table#1565889946#W ;; I Am Greatness#1762712562#W
+Seth Rollins|Modern|Seth Freakin Rollins|The Second Coming#891070198#W ;; The Vision#1779967804#W
+Bray Wyatt|Modern|The Fiend|Shatter#1657753416#W
+AJ Lee|Modern||Let's Light It Up#857570726#W
+Paige|Modern|Saraya|Stars in the Night#6774239768#W
+Emma|Modern||Who's That Girl#1439624231#W
+Natalya|Modern|Nattie|New Foundation#443170907#W
+Tamina|Modern|Tamina Snuka|What You Think#1322661759#W
+The Bella Twins|Modern|Bella Twins,Nikki Bella,Brie Bella|Beautiful Life#918294343#W ;; You Can Look - But You Can't Touch#399681762#W
+Summer Rae|Modern||Rush of Power#829080641#W
+Rusev|Modern|Miro|I Am The Tempest#1817693850#W ;; Redeemer#1587115424#A
+Claudio Castagnoli|Modern|Cesaro|Uppercut Swingphony#1633287882#A
+Titus O'Neil|Modern|Titus O’Neil|Let Me Show You How#826667575#W
+Tyson Kidd|Modern||Right Here, Right Now#742818098#W
+The Usos|Modern|Usos|So Close Now#476097084#W ;; Done with That#1165436179#W
+Jey Uso|Modern|Main Event Jey|Main Event Ish#1706908667#W
+Jimmy Uso|Modern||Born a King#1706907809#W
+Solo Sikoa|Modern||Taking It All#1651465689#W
+Jacob Fatu|Modern||Samoan Destroyer#1760798448#W
+AJ Styles|Modern||Phenomenal#1079614536#W ;; You Don't Want None#1741824718#W
+Shinsuke Nakamura|Modern|Nakamura|The Rising Sun#1100270265#W
+Finn Bálor|Modern|Finn Balor,Prince Devitt|Catch Your Breath#950842686#W ;; I AM DANGER#1642812964#W
+Kevin Owens|Modern|KO|Fight#951108864#W
+Sami Zayn|Modern||Worlds Apart#883714256#W ;; This Is It#1595654938#W
+Becky Lynch|Modern|The Man|Celtic Invasion#953145653#W ;; New Lows#1832827246#W
+Charlotte Flair|Modern|Charlotte|Recognition#883797910#W
+Bayley|Modern||Turn It Up#918563200#W ;; Role Model#1744235515#W
+Alexa Bliss|Modern||Spiteful#1061312405#W ;; The Fury#1554554934#W
+Asuka|Modern||You Can't Hide#1676145644#W
+IYO SKY|Modern|Io Shirai|Tokyo Shock#1519333141#W ;; Genius of the Sky#1445930127#W
+Rhea Ripley|Modern|Mami|Brutality#1445919721#W
+Bianca Belair|Modern||Watch Me Shine#1378429996#W
+Liv Morgan|Modern||Trouble#1893755248#W ;; Liv Gone Mad#1657277127#W
+Naomi|Modern||Glow#1735753816#W
+Nia Jax|Modern||Not Like Most Girls#1710647721#W
+Drew McIntyre|Modern||Broken Dreams#1346109048#W ;; Gallantry#1226514053#W
+Bobby Roode|Modern||Glorious Domination#1141461880#W
+Pete Dunne|Modern|Butch|Bruiserweight#1239447840#W
+Tyler Bate|Modern||Inaugural#6773866594#W
+Street Profits|Modern|The Street Profits|Bring the Swag#1269236355#W ;; We Want Smoke#1718627761#W
+The Viking Raiders|Modern|Viking Raiders,War Raiders|War#1385158503#W
+Chad Gable|Modern||Elite#1032035568#W ;; Highway To The Sky#6799133036#W
+Damian Priest|Modern||Rise For The Night#1742858250#W ;; Infamy#1525778595#W
+The Judgment Day|Modern|Judgment Day|Rulers Of The World#1794402614#W
+Dominik Mysterio|Modern|Dirty Dom|It Is My Time#1671217970#W
+Gunther|Modern|Walter|Prepare To Fight#1634017945#W ;; General#1624786057#W
+Ludwig Kaiser|Modern||Sacred#1719327366#W
+LA Knight|Modern|Eli Drake|Welcome To LA#1695926410#W
+Logan Paul|Modern||Still Humble#1811210648#W ;; Take Flight#1681879723#W
+Pat McAfee|Modern||The Anomaly#1640107112#W
+Austin Theory|Modern|Theory|A-Town Down#1612893069#W
+Bron Breakker|Modern||Breakk And Destroy#1762037729#W
+Bronson Reed|Modern||Battle Tested#1669824399#W
+Omos|Modern||Shake the Ground#1584422553#W
+Tiffany Stratton|Modern|Tiffy|Tiffy Time#1735758884#W
+Chelsea Green|Modern||Hot Mess#1683889940#W
+Trick Williams|Modern||Locked In#1709559006#W
+Carmelo Hayes|Modern|Melo|Melo Don't Miss#1681862894#W
+Johnny Gargano|Modern||Bet On Yourself#1657278902#W
+Grayson Waller|Modern||Eye On the Prize#1684963618#W
+Damage CTRL|Modern||We Got the Rage#1646678679#W
+Raquel Rodriguez|Modern||La Mas Ruda#1803673410#W
+Jade Cargill|Modern||A Storm Is Coming#1740626784#W ;; Epic#1588443487#A
+Penta|Modern|Penta El Zero Miedo,Pentagon Jr.|Zero Miedo#1800570887#W
+Rey Fenix|Modern|Fenix|Animo#1810491153#W
+Giulia|Modern||Time Of Arrival#1775776798#W
+Stephanie Vaquer|Modern||La Primera#1890238166#W
+Roxanne Perez|Modern||All Fall Down#1628837375#W
+Lyra Valkyria|Modern||Triumph#1670177830#W
+Pretty Deadly|Modern||On and On#1698201980#W
+Ricochet|Modern||Into The Rico-Verse#1787465718#A
+Kenny Omega|Modern||Battle Cry#1494993750#A
+Darby Allin|Modern||I Fell#1484293637#A
+Orange Cassidy|Modern|OC|Juicy#1533431980#A
+Adam Cole|Modern||All About Tha (Boom!)#1586119289#A
+MJF|Modern|Maxwell Jacob Friedman|The Devil's Trick#1708944594#A
+The Young Bucks|Modern|Young Bucks,Matt and Nick Jackson|You Leave Us No Choice#1739884032#A
+Britt Baker|Modern|Dr. Britt Baker|Roll Model#1527356549#A
+Toni Storm|Modern|Timeless Toni Storm|Somewhere In A Dream#1723914537#A
+Jamie Hayter|Modern||Indignation#1586373691#A
+Thunder Rosa|Modern||Blood and Glory#1531248659#A
+Kris Statlander|Modern||Cauterize#1620621118#A
+Julia Hart|Modern||Harder Hart#1640176339#A
+Eddie Kingston|Modern||Cold World#1535829355#A
+FTR|Modern|The Revival|Darkside of T R#1588793959#A
+Lucha Bros|Modern|Lucha Brothers|Zero Miedo#1566804312#A
+Death Triangle|Modern||Death Triangle#1506438816#A
+Pac|Modern|Neville,Bastard Pac|Out of Time 2.0#1616897715#A
+Wardlow|Modern||This Is War#1505001515#A
+Samoa Joe|Modern||Coliseum Clash#1618372645#A
+Keith Lee|Modern|Limitless Keith Lee|I Am#1610374354#A
+Ricky Starks|Modern||It's Live#1525622719#A
+Powerhouse Hobbs|Modern|Will Hobbs|P-P-P-P-Powerhouse#1589161816#A
+Danhausen|Modern||You Are Cursed#1891413160#W ;; The Danhausen Show#1624769509#A
+Dark Order|Modern||Join Us#1500906603#A
+Brodie Lee|Modern|Luke Harper|He Is Exalted#1510695657#A
+Jungle Boy|Modern|Jack Perry|Jungle Run#1555449108#A
+Jurassic Express|Modern||Jurassic Express Theme#1492501476#A
+Best Friends|Modern||Best Friends Theme#1502440998#A
+Inner Circle|Modern|The Inner Circle|Inner Circle Theme#1510731374#A
+Andrade El Idolo|Modern|Andrade|Kill the Messenger#1586106331#A
+Jay Lethal|Modern||Lethal Injection#1616239437#A
+Christopher Daniels|Modern||Fallen Angel#1555449117#A
+Sammy Guevara|Modern||The World Is Mine#1555449107#A
+Konosuke Takeshita|Modern|Takeshita|Face-Off#1663633347#A
+Daniel Garcia|Modern||Crimson Extinction#1587034333#A
+Mariah May|Modern||Dream Over#1762763786#A
+Athena|Modern||The Fallen Goddess#1635564074#A
+Kyle O'Reilly|Modern||In the Trenches#1747375373#A
+Bandido|Modern||Los Mas Buscados#1857003658#A
+Komander|Modern||Paseo Aéreo#1887592553#A
+Nyla Rose|Modern||Beast Bomb#1500921491#A
+Anna Jay|Modern||Queen Slayer#1533495510#A
+Penelope Ford|Modern||Super Bad Girl#1507585509#A
+Scorpio Sky|Modern||Reach for the Sky#1524366697#A
+Dustin Rhodes|Modern||Natural#1499913401#A
+Arn Anderson|Modern||Double A#1503905202#A
+Big Swole|Modern||Swole World#1501749217#A
+Serena Deeb|Modern||The Professor#1630301386#A
+Tommaso Ciampa|Modern||My Shadow Knows#1874046719#A
+Undisputed Kingdom|Modern||Devil Rising#1726117312#A
+Kip Sabian|Modern||Over It#1646261070#A
+Brian Cage|Modern||Path of Cage#1524162179#A
+Jake Hager|Modern||I Got 'Em Hurt#1505396137#A
+Matt Hardy|Modern|Broken Matt Hardy|Rise of Damascus#1504579913#A
+Lee Johnson|Modern||One Shot#1544004482#A
+Skye Blue|Modern||Choke#1725020947#A
+Big Bill|Modern||A Long Way Down#1698099326#A
+Gunn Club|Modern||Locked and Loaded#1554733161#A
+Bang Bang Gang|Modern||Burnin' Daylight#1734664367#A
