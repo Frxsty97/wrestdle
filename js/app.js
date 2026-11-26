@@ -122,12 +122,11 @@ function renderAttempts() {
     if (g) {
       const mark = { correct: "✓", wrong: "✕", partial: "≈", skip: "–" }[g.result];
       const label = g.result === "skip" ? "Skipped" : esc(g.label);
-      const tag = g.result === "skip" ? "" : `<span class="tag">${g.type === "song" ? "song" : "wrestler"}</span>`;
       const clues = easy && g.clues ? cluesHtml(g.clues) : "";
       const cls = clues ? `${g.result} has-clues` : g.result;
       const body = clues
-        ? `<div class="main-row"><span class="mark">${mark}</span><span class="txt">${label}</span>${tag}</div>${clues}`
-        : `<span class="mark">${mark}</span><span class="txt">${label}</span>${tag}`;
+        ? `<div class="main-row"><span class="mark">${mark}</span><span class="txt">${label}</span></div>${clues}`
+        : `<span class="mark">${mark}</span><span class="txt">${label}</span>`;
       items.push(`<li class="${cls}">${body}</li>`);
     } else {
       const cur = !round.done && i === round.guesses.length;
@@ -291,9 +290,9 @@ function submitGuess(e) {
   let opt = selected;
   if (!opt) {
     const q = normalize($("guess-input").value);
-    if (!q) { setHint("Type a wrestler or song, or hit Skip.", true); return; }
+    if (!q) { setHint("Type a wrestler, or hit Skip.", true); return; }
     opt = OPTIONS.find((o) => o.terms.includes(q));
-    if (!opt) { setHint("Pick a wrestler or song from the list.", true); openList(); return; }
+    if (!opt) { setHint("Pick a wrestler from the list.", true); openList(); return; }
   }
   if (round.guesses.some((g) => g.optKey === opt.key)) { setHint("You've already tried that one.", true); return; }
   const result = isCorrect(opt, answer) ? "correct" : isPartial(opt, answer, SONGS) ? "partial" : "wrong";
@@ -331,8 +330,8 @@ function openList() {
   if (!q.trim()) { closeList(); return; }
   ul.innerHTML = currentList.length
     ? currentList.map((o, i) => `<li role="option" id="opt-${i}" data-i="${i}" aria-selected="${i === activeIdx}">
-        <span><span class="s-type">${o.type === "song" ? "♪" : "🤼"}</span><span class="s-label">${esc(o.label)}</span></span>
-        <span class="s-sub">${esc(o.type === "song" ? "Song" : o.sub)}</span></li>`).join("")
+        <span><span class="s-label">${esc(o.label)}</span></span>
+        <span class="s-sub">${esc(o.sub)}</span></li>`).join("")
     : `<li class="empty">No matches. Try another spelling.</li>`;
   ul.hidden = false;
   $("guess-input").setAttribute("aria-expanded", "true");

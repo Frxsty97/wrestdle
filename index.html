@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Wrestdle — guess the wrestler from their entrance music</title>
-  <meta name="description" content="Hear the first second of a wrestler's entrance theme. Name the wrestler or the song in six tries.">
+  <meta name="description" content="Hear the first second of a wrestler's entrance theme. Name the wrestler in six tries.">
   <meta name="theme-color" content="#0b0b10">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔔</text></svg>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -81,7 +81,7 @@
 
     <form class="guess" id="guess-form" autocomplete="off">
       <div class="combo">
-        <input id="guess-input" type="text" placeholder="Wrestler or song title…" aria-label="Your guess"
+        <input id="guess-input" type="text" placeholder="Wrestler name…" aria-label="Your guess"
                role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="suggestions" disabled>
         <ul id="suggestions" class="suggestions" role="listbox" hidden></ul>
       </div>
@@ -143,7 +143,7 @@
       <h2 class="dlg-title">How to play</h2>
       <ol class="help">
         <li><b>Hit play</b> to hear the first second of a wrestler's entrance music.</li>
-        <li><b>Guess the wrestler or the song title.</b> Start typing and pick from the list. Either one counts.</li>
+        <li><b>Guess the wrestler.</b> Start typing a name and pick from the list.</li>
         <li><b>Skip or guess wrong</b> to hear more: 1s → 2s → 4s → 7s → 11s → 16s.</li>
         <li><span class="sw y"></span> A wrong guess turns amber if it's a wrestler from the same promotion and era.</li>
         <li><b>Easy mode:</b> each wrong wrestler guess shows clue chips — gender, singles vs. group, and company overlap — so you can home in faster. Stats are kept separately.</li>

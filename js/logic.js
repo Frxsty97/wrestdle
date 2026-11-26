@@ -83,12 +83,12 @@ export function filterSongs(songs, { promotion = "all", era = "all" } = {}) {
 }
 
 /**
- * Build the list of guessable options: one per wrestler, one per distinct song title.
- * Each option: { type: "wrestler"|"song", label, sub, key, terms[] }
+ * Build the list of guessable options: one per wrestler. Song titles are no
+ * longer offered — players guess by wrestler only.
+ * Each option: { type: "wrestler", label, sub, key, terms[] }
  */
 export function buildOptions(songs) {
   const wrestlers = new Map();
-  const titles = new Map();
   for (const s of songs) {
     if (!wrestlers.has(s.wrestler)) {
       wrestlers.set(s.wrestler, {
@@ -99,14 +99,8 @@ export function buildOptions(songs) {
         terms: [s.wrestler, ...s.aliases].map(normalize),
       });
     }
-    const tk = normalize(s.song);
-    if (!titles.has(tk)) {
-      titles.set(tk, { type: "song", label: s.song, sub: "Song", key: "s:" + tk, terms: [tk], by: new Set() });
-    }
-    titles.get(tk).by.add(s.wrestler);
   }
-  const songOpts = [...titles.values()].map((o) => ({ ...o, sub: "Song", by: undefined }));
-  return [...wrestlers.values(), ...songOpts];
+  return [...wrestlers.values()];
 }
 
 /** Rank options against what the player typed. Prefix matches first. */

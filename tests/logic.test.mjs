@@ -55,21 +55,19 @@ test("day numbering survives DST changes", () => {
   assert.equal(dayNumber(new Date(2027, 2, 29)) - dayNumber(new Date(2027, 2, 27)), 2); // UK clocks change 28 Mar 2027
 });
 
-test("search finds wrestlers by name, alias and song", () => {
+test("search finds wrestlers by name and alias; no song entries", () => {
   assert.equal(searchOptions(OPTS, "stone")[0].label, "Stone Cold Steve Austin");
   assert.equal(searchOptions(OPTS, "hbk")[0].label, "Shawn Michaels");
   assert.equal(searchOptions(OPTS, "balor")[0].label, "Finn Bálor");
-  assert.ok(searchOptions(OPTS, "glorious").some((o) => o.type === "song" && o.label === "Glorious Domination"));
+  assert.ok(OPTS.every((o) => o.type === "wrestler"));
   assert.deepEqual(searchOptions(OPTS, ""), []);
 });
 
-test("wrestler OR song title is accepted", () => {
+test("wrestler guess is accepted; wrong wrestler is not", () => {
   const ans = SONGS.find((s) => s.song === "The Game");
-  const w = OPTS.find((o) => o.type === "wrestler" && o.label === "Triple H");
-  const s = OPTS.find((o) => o.type === "song" && o.label === "The Game");
-  const wrongW = OPTS.find((o) => o.type === "wrestler" && o.label === "The Rock");
+  const w = OPTS.find((o) => o.label === "Triple H");
+  const wrongW = OPTS.find((o) => o.label === "The Rock");
   assert.ok(isCorrect(w, ans));
-  assert.ok(isCorrect(s, ans));
   assert.ok(!isCorrect(wrongW, ans));
 });
 
