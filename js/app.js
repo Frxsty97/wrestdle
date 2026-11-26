@@ -415,6 +415,11 @@ $("btn-next").addEventListener("click", () => {
 });
 $("btn-stats").addEventListener("click", showStats);
 $("btn-help").addEventListener("click", () => $("dlg-help").showModal());
+$("btn-next-track").addEventListener("click", () => {
+  if ($("dlg-result").open) $("dlg-result").close();
+  if (mode === "daily") switchMode("unlimited");
+  else startUnlimited(true);
+});
 document.querySelectorAll(".mode").forEach((b) => b.addEventListener("click", () => switchMode(b.dataset.mode)));
 for (const [id, field] of [["f-promo", "promotion"], ["f-era", "era"]]) {
   $(id).addEventListener("change", () => {

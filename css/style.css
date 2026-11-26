@@ -73,6 +73,10 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
 }
 .mode[aria-selected="true"] { background: var(--gold); color: #1a1405; }
 
+.quick-actions { display: flex; justify-content: center; margin: 6px 0 2px; }
+.quick-actions .btn { height: auto; padding: 6px 14px; font-size: 12px; font-weight: 600; display: inline-flex; align-items: center; gap: 6px; margin: 0; }
+.quick-actions .btn svg { opacity: .9; }
+
 .filters {
   display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: end; justify-content: center;
   margin: 10px 16px 0; font-size: 12px; color: var(--muted);
