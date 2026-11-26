@@ -1,22 +1,22 @@
 wrestler	gender	actType	defaultCompany	notes
 AJ Lee	female	singles	WWE	
-AJ Styles	male	singles	WWE	
-Adam Cole	male	singles	AEW	
+AJ Styles	male	singles	TNA|ROH|NJPW|WWE	
+Adam Cole	male	singles	ROH|NXT|AEW	
 Ahmed Johnson	male	singles	WWF	
 Al Snow	male	singles	WWF	
 Alberto Del Rio	male	singles	WWE	
 Alexa Bliss	female	singles	WWE	
-Andrade El Idolo	male	singles	AEW	
+Andrade El Idolo	male	singles	CMLL|WWE|AEW	
 Anna Jay	female	singles	AEW	
-Arn Anderson	male	singles	AEW	
+Arn Anderson	male	singles	WCW|WWF|WWE|AEW	
 Ashley	female	singles	WWF	
 Asuka	female	singles	WWE	
-Athena	female	singles	AEW	
+Athena	female	singles	WWE|ROH	
 Austin Theory	male	singles	WWE	
 Bam Bam Bigelow	male	singles	WWF	
 Bandido	male	singles	AEW	
 Bang Bang Gang	male	group	AEW	
-Batista	male	singles	WWF	
+Batista	male	singles	WWE	
 Bayley	female	singles	WWE	
 Becky Lynch	female	singles	WWE	
 Best Friends	male	group	AEW	
@@ -25,24 +25,24 @@ Bianca Belair	female	singles	WWE
 Big Bill	male	singles	AEW	
 Big Boss Man	male	singles	WWF	
 Big E	male	singles	WWE	
-Big Show	male	singles	WWF	
+Big Show	male	singles	WCW|WWF|WWE|AEW	
 Big Swole	female	singles	AEW	
 Billy Gunn	male	singles	WWF	
 Bobby Lashley	male	singles	WWF	
 Bobby Roode	male	singles	WWE	
-Booker T	male	singles	WWF	
+Booker T	male	singles	WCW|WWE|TNA	
 Bray Wyatt	male	singles	WWE	
-Bret Hart	male	singles	WWF	
-Brian Cage	male	singles	AEW	
-British Bulldog	male	singles	WWF	
+Bret Hart	male	singles	WWF|WCW|WWE	
+Brian Cage	male	singles	LUCHA|IMPACT|AEW	
+British Bulldog	male	singles	WWF|WCW	
 Britt Baker	female	singles	AEW	
 Brock Lesnar	male	singles	WWF	
-Brodie Lee	male	singles	AEW	
+Brodie Lee	male	singles	WWE|AEW	
 Bron Breakker	male	singles	WWE	
 Bronson Reed	male	singles	WWE	
 Brother Love	male	singles	WWF	
 Bushwhackers	male	group	WWF	
-CM Punk	male	singles	WWE	
+CM Punk	male	singles	ROH|WWE|AEW	
 Candice Michelle	female	singles	WWF	
 Carlito	male	singles	WWF	
 Carmelo Hayes	male	singles	WWE	
@@ -50,15 +50,15 @@ Chad Gable	male	singles	WWE
 Charlotte Flair	female	singles	WWE	
 Chavo Guerrero	male	singles	WWF	
 Chelsea Green	female	singles	WWE	
-Chris Jericho	male	singles	WWF	
+Chris Jericho	male	singles	WCW|WWF|WWE|AEW	
 Chris Masters	male	singles	WWF	
-Christian	male	singles	WWF	
-Christopher Daniels	male	singles	AEW	
+Christian	male	singles	WWF|TNA|WWE|AEW	
+Christopher Daniels	male	singles	ROH|TNA|AEW	
 Chyna	female	singles	WWF	
-Claudio Castagnoli	male	singles	AEW	
+Claudio Castagnoli	male	singles	ROH|WWE|AEW	
 Cody Rhodes	male	singles	WWE	
 D'Lo Brown	male	singles	WWF	
-D-Generation X	male	group	WWF	
+D-Generation X	male	group	WWF|WWE	
 Damage CTRL	female	group	WWE	
 Damian Priest	male	singles	WWE	
 Damien Sandow	male	singles	WWE	
@@ -68,22 +68,22 @@ Daniel Garcia	male	singles	AEW
 Darby Allin	male	singles	AEW	
 Dark Order	male	group	AEW	
 Death Triangle	male	group	AEW	
-Diesel	male	singles	WWF	
+Diesel	male	singles	WWF|WCW	
 Doink the Clown	male	singles	WWF	? maybe group
 Dolph Ziggler	male	singles	WWE	
 Dominik Mysterio	male	singles	WWE	
 Drew McIntyre	male	singles	WWE	
 Dudley Boyz	male	group	WWF	
-Dustin Rhodes	male	singles	AEW	
+Dustin Rhodes	male	singles	WWF|WCW|TNA|WWE|AEW	
 Dusty Rhodes	male	singles	WWF	
-Eddie Guerrero	male	singles	WWF	
-Eddie Kingston	male	singles	AEW	
-Edge	male	singles	WWF	
+Eddie Guerrero	male	singles	ECW|WCW|WWF|WWE	
+Eddie Kingston	male	singles	CZW|IMPACT|AEW	
+Edge	male	singles	WWF|WWE|AEW	
 Elijah Burke	male	singles	WWF	
 Emma	male	singles	WWE	
 Eve	male	singles	WWF	
-Evolution	male	group	WWF	
-FTR	male	group	AEW	
+Evolution	male	group	WWE	
+FTR	male	group	WWE|ROH|NJPW|AEW	
 Faarooq	male	singles	WWF	
 Fabulous Freebirds	male	singles	WWF	
 Fandango	male	singles	WWE	
@@ -92,12 +92,12 @@ Finn Bálor	male	singles	WWE
 Gail Kim	female	singles	WWF	
 Gangrel	male	singles	WWF	
 Giulia	female	singles	WWE	
-Goldust	male	singles	WWF	
+Goldust	male	singles	WWF|WCW|TNA|WWE	
 Grayson Waller	male	singles	WWE	
 Gunn Club	male	group	AEW	
 Gunther	male	singles	WWE	
 Hornswoggle	male	singles	WWF	
-Hulk Hogan	male	singles	WWF	
+Hulk Hogan	male	singles	WWF|WCW|TNA|WWE	
 IYO SKY	female	singles	WWE	
 Inner Circle	male	group	AEW	
 Iron Sheik	male	singles	WWF	
@@ -107,35 +107,35 @@ Jack Swagger	male	singles	WWF
 Jacob Fatu	male	singles	WWE	
 Jacqueline	female	singles	WWF	
 Jade Cargill	female	singles	WWE	
-Jake Hager	male	singles	AEW	
+Jake Hager	male	singles	WWE|AEW	
 Jake The Snake Roberts	male	singles	WWF	? maybe group
-Jamie Hayter	female	singles	AEW	
-Jay Lethal	male	singles	AEW	
-Jeff Hardy	male	singles	WWF	
-Jeff Jarrett	male	singles	WWF	
+Jamie Hayter	female	singles	STARDOM|AEW	
+Jay Lethal	male	singles	ROH|TNA|AEW	
+Jeff Hardy	male	singles	WWF|TNA|WWE|AEW	
+Jeff Jarrett	male	singles	WWF|WCW|TNA|AEW	
 Jerry Lawler	male	singles	WWF	
 Jey Uso	male	singles	WWE	
 Jimmy Snuka	male	singles	WWF	
 Jimmy Uso	male	singles	WWE	
-John Cena	male	singles	WWF	
+John Cena	male	singles	WWE	
 John Morrison	male	singles	WWF	
 Johnny Gargano	male	singles	WWE	
 Julia Hart	female	singles	AEW	
 Jungle Boy	male	singles	AEW	
 Jurassic Express	male	group	AEW	
-Kane	male	singles	WWF	
-Keith Lee	male	singles	AEW	
+Kane	male	singles	WWF|WWE	
+Keith Lee	male	singles	WWE|AEW	
 Kelly Kelly	female	singles	WWF	
 Ken Shamrock	male	singles	WWF	
-Kenny Omega	male	singles	AEW	
+Kenny Omega	male	singles	DDT|NJPW|AEW	
 Kevin Owens	male	singles	WWE	
 Kip Sabian	male	singles	AEW	
 Kofi Kingston	male	singles	WWE	
 Komander	male	singles	AEW	
-Konosuke Takeshita	male	singles	AEW	
+Konosuke Takeshita	male	singles	DDT|AEW	
 Kris Statlander	female	singles	AEW	
-Kurt Angle	male	singles	WWF	
-Kyle O'Reilly	male	singles	AEW	
+Kurt Angle	male	singles	WWF|TNA|WWE	
+Kyle O'Reilly	male	singles	ROH|NXT|AEW	
 LA Knight	male	singles	WWE	
 Lee Johnson	male	singles	AEW	
 Lex Luger	male	singles	WWF	
@@ -148,12 +148,12 @@ Lyra Valkyria	female	singles	WWE
 MJF	male	singles	AEW	
 MVP	male	singles	WWF	
 Macho Man Randy Savage	male	singles	WWF	
-Mankind	male	singles	WWF	
+Mankind	male	singles	WCW|ECW|WWF|WWE	
 Maria	male	singles	WWF	
 Mariah May	male	singles	AEW	
 Mark Henry	male	singles	WWF	
 Maryse	female	singles	WWF	
-Matt Hardy	male	singles	AEW	
+Matt Hardy	male	singles	WWF|TNA|WWE|AEW	
 Melina	female	singles	WWF	
 Michelle McCool	female	singles	WWF	
 Mickie James	female	singles	WWF	
@@ -169,7 +169,7 @@ Nia Jax	female	singles	WWE
 Nyla Rose	trans	singles	AEW	
 Omos	male	singles	WWE	
 Orange Cassidy	male	singles	AEW	
-Owen Hart	male	singles	AEW	
+Owen Hart	male	singles	WWF	
 Pac	male	singles	AEW	
 Paige	female	singles	WWE	
 Papa Shango	male	singles	WWF	
@@ -180,20 +180,20 @@ Pete Dunne	male	singles	WWE
 Powerhouse Hobbs	male	singles	AEW	
 Pretty Deadly	male	group	WWE	
 R-Truth	male	singles	WWE	
-Randy Orton	male	singles	WWF	
+Randy Orton	male	singles	WWE	
 Raquel Rodriguez	female	singles	WWE	
 Raven	male	singles	WWF	
-Razor Ramon	male	singles	WWF	
+Razor Ramon	male	singles	WWF|WCW	
 Rey Fenix	male	singles	WWE	
-Rey Mysterio	male	singles	WWF	
+Rey Mysterio	male	singles	ECW|WCW|WWE|AEW	
 Rhea Ripley	female	singles	WWE	
 Rick Martel	male	singles	WWF	
-Ricky Starks	male	singles	AEW	
+Ricky Starks	male	singles	AEW|WWE	
 Ricky Steamboat	male	singles	WWF	? maybe group
 Ricochet	male	singles	AEW	
 Rikishi	male	singles	WWF	
 Road Dogg	male	singles	WWF	
-Rob Van Dam	male	singles	WWF	
+Rob Van Dam	male	singles	ECW|WWE|TNA|AEW	
 Roddy Piper	male	singles	WWF	
 Roman Reigns	male	singles	WWE	
 Roxanne Perez	female	singles	WWE	
@@ -202,7 +202,7 @@ Ryback	male	singles	WWE
 Sable	female	singles	WWF	
 Sami Zayn	male	singles	WWE	
 Sammy Guevara	male	singles	AEW	
-Samoa Joe	male	singles	AEW	
+Samoa Joe	male	singles	ROH|TNA|NXT|WWE|AEW	
 Santino Marella	male	singles	WWF	
 Scorpio Sky	male	singles	AEW	
 Scotty 2 Hotty	male	singles	WWF	
@@ -210,17 +210,17 @@ Serena Deeb	female	singles	AEW
 Seth Rollins	male	singles	WWE	
 Sgt. Slaughter	male	singles	WWF	
 Shane McMahon	male	singles	WWF	
-Shawn Michaels	male	singles	WWF	
+Shawn Michaels	male	singles	WWF|WWE	
 Sheamus	male	singles	WWE	
-Shelton Benjamin	male	singles	WWF	
+Shelton Benjamin	male	singles	WWE|ROH|AEW	
 Shinsuke Nakamura	male	singles	WWE	
 Skye Blue	female	singles	AEW	
 Solo Sikoa	male	singles	WWE	
 Stacy Keibler	male	singles	WWF	
 Stephanie McMahon	female	singles	WWF	
 Stephanie Vaquer	female	singles	WWE	
-Sting	male	singles	WWF	
-Stone Cold Steve Austin	male	singles	WWF	
+Sting	male	singles	WCW|TNA|WWE|AEW	
+Stone Cold Steve Austin	male	singles	WCW|WWF|WWE	
 Street Profits	male	group	WWE	
 Summer Rae	male	singles	WWE	
 Sunny	male	singles	WWF	
@@ -245,35 +245,35 @@ The Legacy	male	group	WWE
 The Ministry of Darkness	male	group	WWF	
 The Miz	male	singles	WWE	? maybe group
 The New Day	male	group	WWE	
-The Rock	male	singles	WWF	? maybe group
+The Rock	male	singles	WWF|WWE	? maybe group
 The Shield	male	group	WWE	
 The Ultimate Warrior	male	singles	WWF	? maybe group
-The Undertaker	male	singles	WWF	? maybe group
+The Undertaker	male	singles	WWF|WWE	? maybe group
 The Usos	male	group	WWE	
 The Viking Raiders	male	group	WWE	
-The Young Bucks	male	group	AEW	
-Thunder Rosa	female	singles	AEW	
+The Young Bucks	male	group	ROH|NJPW|AEW	
+Thunder Rosa	female	singles	ROH|NWA|AEW	
 Tiffany Stratton	female	singles	WWE	
 Titus O'Neil	male	singles	WWE	
-Tommaso Ciampa	male	singles	AEW	
-Toni Storm	female	singles	AEW	
+Tommaso Ciampa	male	singles	WWE	
+Toni Storm	female	singles	WWE|AEW	
 Too Cool	male	group	WWF	
 Torrie Wilson	female	singles	WWF	
 Trick Williams	male	singles	WWE	
-Triple H	male	singles	WWF	
+Triple H	male	singles	WWF|WWE	
 Trish Stratus	female	singles	WWF	
 Tyler Bate	male	singles	WWE	
 Tyson Kidd	male	singles	WWE	
 Umaga	male	singles	WWF	
 Undisputed Kingdom	male	group	AEW	
-Vader	male	singles	WWF	
+Vader	male	singles	WCW|WWF	
 Val Venis	male	singles	WWF	
 Victoria	female	singles	WWF	
 Wade Barrett	male	singles	WWE	
 Wardlow	male	singles	AEW	
-William Regal	male	singles	WWF	
+William Regal	male	singles	WCW|WWF|WWE|AEW	
 X-Pac	male	singles	WWF	
 Xavier Woods	male	singles	WWE	
 Yokozuna	male	singles	WWF	
 Zack Ryder	male	singles	WWE	
-nWo	male	group	WWF	
+nWo	male	group	WCW|WWF|WWE	

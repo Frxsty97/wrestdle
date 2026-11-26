@@ -8,7 +8,9 @@ edited TSV and write the fields back into data/themes.json.
 Columns: wrestler, gender, actType, defaultCompany, notes
 - gender: male | female | trans | mixed
 - actType: singles | group
-- defaultCompany: short code — WWF, WWE, NXT, WCW, ECW, TNA, ROH, AEW
+- defaultCompany: one or more short codes separated by '|' for wrestlers who
+  worked for multiple promotions. Codes: WWF, WWE, NXT, WCW, ECW, TNA, ROH,
+  NJPW, DDT, AEW, GCW, IMPACT, MLW.
   (defaultCompany is the common case; per-theme company overrides will be added
   in a second pass.)
 - notes: freeform, usually a '?' when the guess is low-confidence
@@ -70,11 +72,14 @@ GROUPS = {
     "The Oddities", "The Corporation", "The Corporate Ministry", "The Radicalz",
     "Three Minute Warning", "The Mexicools", "Deuce 'n Domino", "World's Greatest Tag Team",
     "The Four Horsemen", "The Bella Twins", "The Spirit Squad", "Cade and Murdoch",
+    "The Hardy Boyz", "Legion of Doom", "Rated-RKO", "The OC", "The Club",
+    "Edge and Christian",
     # WWE Modern
     "The Shield", "The Usos", "The New Day", "Legacy", "The Judgment Day",
     "Damage CTRL", "The Bloodline", "Street Profits", "The Viking Raiders",
     "Hurt Business", "Imperium", "Alpha Academy", "Final Testament",
-    "Diamond Mine", "Pretty Deadly", "The OC", "Legado del Fantasma", "The Legacy",
+    "Diamond Mine", "Pretty Deadly", "Legado del Fantasma", "The Legacy",
+    "The Bloodline",
     "Hit Row", "Maximum Male Models", "Retribution", "SAnitY", "Undisputed Era",
     "Gallows and Anderson", "The Shield", "Breezango", "The Ascension",
     "The Lucha Dragons", "The B-Team", "The Bar", "Heavy Machinery",
@@ -113,8 +118,108 @@ WOMEN_GROUPS = {
     "The Bella Twins",
 }
 
-# --- Default company inference ---------------------------------------------
-def default_company(promotion: str, era: str) -> str:
+# --- Dual-promotion overrides ----------------------------------------------
+# Wrestlers who meaningfully worked in more than one company. Order codes from
+# earliest to latest for readability. '|' = the TSV multi-value separator.
+DUAL_COMPANY = {
+    # Attitude-era to WWE renamings and jumps
+    "Chris Jericho":        "WCW|WWF|WWE|AEW",
+    "Edge":                 "WWF|WWE|AEW",
+    "Christian":            "WWF|TNA|WWE|AEW",
+    "Jeff Hardy":           "WWF|TNA|WWE|AEW",
+    "Matt Hardy":           "WWF|TNA|WWE|AEW",
+    "The Hardy Boyz":       "WWF|TNA|WWE|AEW",
+    "Kurt Angle":           "WWF|TNA|WWE",
+    "Jeff Jarrett":         "WWF|WCW|TNA|AEW",
+    "Hulk Hogan":           "WWF|WCW|TNA|WWE",
+    "Kevin Nash":           "WCW|WWF|TNA|WWE",
+    "Scott Hall":           "WCW|WWF|TNA|WWE",
+    "Diesel":               "WWF|WCW",
+    "Razor Ramon":          "WWF|WCW",
+    "nWo":                  "WCW|WWF|WWE",
+    "Goldust":              "WWF|WCW|TNA|WWE",
+    "Dustin Rhodes":        "WWF|WCW|TNA|WWE|AEW",
+    "Rob Van Dam":          "ECW|WWE|TNA|AEW",
+    "Mick Foley":           "WCW|ECW|WWF|WWE|TNA",
+    "Mankind":              "WCW|ECW|WWF|WWE",
+    "Big Show":             "WCW|WWF|WWE|AEW",
+    "Booker T":             "WCW|WWE|TNA",
+    "Rey Mysterio":         "ECW|WCW|WWE|AEW",
+    "Eddie Guerrero":       "ECW|WCW|WWF|WWE",
+    "Vader":                "WCW|WWF",
+    "Ric Flair":            "WCW|WWF|TNA|WWE",
+    "William Regal":        "WCW|WWF|WWE|AEW",
+    "Arn Anderson":         "WCW|WWF|WWE|AEW",
+    "Owen Hart":            "WWF",  # legacy use in AEW, but owner: WWF
+    # ROH / NJPW / Indie veterans in AEW
+    "Kenny Omega":          "DDT|NJPW|AEW",
+    "The Young Bucks":      "ROH|NJPW|AEW",
+    "FTR":                  "WWE|ROH|NJPW|AEW",
+    "Adam Cole":            "ROH|NXT|AEW",
+    "Kyle O'Reilly":        "ROH|NXT|AEW",
+    "Christopher Daniels":  "ROH|TNA|AEW",
+    "Claudio Castagnoli":   "ROH|WWE|AEW",
+    "Konosuke Takeshita":   "DDT|AEW",
+    "Jon Moxley":           "WWE|AEW",
+    "CM Punk":              "ROH|WWE|AEW",
+    "Bryan Danielson":      "ROH|WWE|AEW",
+    "AJ Styles":            "TNA|ROH|NJPW|WWE",
+    "Samoa Joe":            "ROH|TNA|NXT|WWE|AEW",
+    "Jay Lethal":           "ROH|TNA|AEW",
+    "Jake Hager":           "WWE|AEW",
+    "Chris Jericho (AEW)":  None,  # already covered above
+    "Sting":                "WCW|TNA|WWE|AEW",
+    "Mercedes Mone":        "WWE|NJPW|AEW",
+    "Saraya":               "WWE|AEW",
+    "Toni Storm":           "WWE|AEW",
+    "Deonna Purrazzo":      "ROH|IMPACT|AEW",
+    "Mina Shirakawa":       "STARDOM|AEW",
+    "Athena":               "WWE|ROH",
+    "Thunder Rosa":         "ROH|NWA|AEW",
+    "Hangman Page":         "ROH|AEW",
+    "Darby Allin":          "AEW",
+    "MJF":                  "AEW",
+    "Jamie Hayter":         "STARDOM|AEW",
+    "Brodie Lee":           "WWE|AEW",
+    "Keith Lee":            "WWE|AEW",
+    "Malakai Black":        "WWE|AEW",
+    "Brian Cage":           "LUCHA|IMPACT|AEW",
+    "Andrade El Idolo":     "CMLL|WWE|AEW",
+    "Tommaso Ciampa":       "WWE",  # mostly WWE
+    "Eddie Kingston":       "CZW|IMPACT|AEW",
+    "Jon Silver":           "AEW",
+    "Preston Vance":        "AEW",
+    "Sammy Guevara":        "AEW",
+    "Wardlow":              "AEW",
+    "Ricky Starks":         "AEW|WWE",
+    "The Elite":            "ROH|NJPW|AEW",
+    "Dark Order":           "AEW",
+    "Blackpool Combat Club":"AEW",
+    "The Rock":             "WWF|WWE",
+    "Triple H":             "WWF|WWE",
+    "Shawn Michaels":       "WWF|WWE",
+    "The Undertaker":       "WWF|WWE",
+    "Kane":                 "WWF|WWE",
+    "Stone Cold Steve Austin": "WCW|WWF|WWE",
+    "D-Generation X":       "WWF|WWE",
+    "Evolution":            "WWE",
+    "Legion of Doom":       "WWF|WCW",
+    "Bret Hart":            "WWF|WCW|WWE",
+    "The British Bulldog":  "WWF|WCW",
+    "British Bulldog":      "WWF|WCW",
+    "John Cena":            "WWE",
+    "Randy Orton":          "WWE",
+    "Batista":              "WWE",
+    "Shelton Benjamin":     "WWE|ROH|AEW",
+    "Charlie Haas":         "WWE|ROH",
+    "World's Greatest Tag Team": "WWE|ROH",
+}
+
+
+def default_company(wrestler: str, promotion: str, era: str) -> str:
+    override = DUAL_COMPANY.get(wrestler)
+    if override:
+        return override
     # Attitude-era themes are WWF (pre-2002). We can't tell from era alone,
     # so fall back to WWF for Classic WWE as a decent default — user corrects
     # anyone whose music was only used post-2002.
@@ -141,7 +246,7 @@ def classify(wrestler: str, promotion: str, era: str):
     # act type
     act_type = "group" if name in GROUPS else "singles"
     # company
-    company = default_company(promotion, era)
+    company = default_company(name, promotion, era)
     # confidence
     notes = ""
     if act_type == "singles" and gender == "male":
