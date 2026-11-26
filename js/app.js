@@ -236,8 +236,8 @@ function switchMode(m) {
 
 function persist() { save(mode === "daily" ? "daily" : "unlimited", round); }
 
-function addGuess(g) {
-  stopAudio();
+function addGuess(g, { keepAudio = false } = {}) {
+  if (!keepAudio) stopAudio();
   round.guesses.push(g);
   if (g.result === "correct") { round.done = true; round.won = true; }
   else if (round.guesses.length >= MAX_ATTEMPTS) { round.done = true; }
@@ -274,9 +274,13 @@ function submitGuess(e) {
 
 function skip() {
   if (round.done) return;
-  addGuess({ label: "", type: "skip", optKey: `skip${round.guesses.length}`, result: "skip" });
+  addGuess({ label: "", type: "skip", optKey: `skip${round.guesses.length}`, result: "skip" }, { keepAudio: true });
   clearInput();
-  if (!round.done) setTimeout(playClip, 150);
+  if (round.done) {
+    stopAudio();
+  } else {
+    clipLimit = CLIP_STEPS[Math.min(round.guesses.length, MAX_ATTEMPTS - 1)];
+  }
 }
 
 // ---------- combobox ----------
