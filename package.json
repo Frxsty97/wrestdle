@@ -1,0 +1,12 @@
+{
+  "name": "entrancle",
+  "version": "1.0.0",
+  "description": "Guess the wrestler from their entrance music — a Heardle-style game",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "test": "node --test tests/*.test.mjs",
+    "build-data": "python3 tools/build_data.py"
+  }
+}
