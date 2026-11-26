@@ -149,6 +149,47 @@ export function isPartial(option, answer, songs) {
   return false;
 }
 
+/**
+ * Easy-mode clues: compare a wrestler guess against the answer theme.
+ * Returns null if the option is not a wrestler (song guesses carry no
+ * wrestler-specific clues). Otherwise each clue is "match", "partial" or
+ * "miss"; the company clue also reports the guessed and answer company lists
+ * so the UI can render them.
+ */
+export function getClues(option, answer, songs) {
+  if (!option || option.type !== "wrestler") return null;
+  const theirs = songs.find((s) => "w:" + normalize(s.wrestler) === option.key);
+  if (!theirs) return null;
+  return {
+    gender: compareGender(theirs.gender, answer.gender),
+    actType: compareActType(theirs.actType, answer.actType),
+    company: compareCompany(theirs.company, answer.company, theirs.promotion, answer.promotion),
+  };
+}
+
+function compareGender(g, a) {
+  if (!g || !a) return { status: "unknown", value: g || "?" };
+  if (g === a) return { status: "match", value: g };
+  // A single-gender guess against a mixed-gender group (or vice versa) is close.
+  if (a === "mixed" || g === "mixed") return { status: "partial", value: g };
+  return { status: "miss", value: g };
+}
+
+function compareActType(g, a) {
+  if (!g || !a) return { status: "unknown", value: g || "?" };
+  return { status: g === a ? "match" : "miss", value: g };
+}
+
+function compareCompany(gc, ac, gp, ap) {
+  const gs = Array.isArray(gc) ? gc.slice() : (gc ? [gc] : []);
+  const as = Array.isArray(ac) ? ac.slice() : (ac ? [ac] : []);
+  if (!gs.length || !as.length) return { status: "unknown", value: gs };
+  const overlap = gs.filter((x) => as.includes(x));
+  if (overlap.length) return { status: "match", value: gs, overlap };
+  if (gp && ap && gp === ap) return { status: "partial", value: gs };
+  return { status: "miss", value: gs };
+}
+
 /** Wordle-style result grid. guesses: [{result:"correct"|"wrong"|"partial"|"skip"}] */
 export function shareGrid(guesses) {
   const icon = { correct: "🟩", wrong: "🟥", partial: "🟨", skip: "⬛" };

@@ -5,6 +5,7 @@ import { readFileSync } from "node:fs";
 import {
   CLIP_STEPS, normalize, dayNumber, dailySong, randomSong, filterSongs, buildOptions,
   searchOptions, isCorrect, isPartial, shareGrid, updateStats, emptyStats, dailyStreakStillValid,
+  getClues,
 } from "../js/logic.js";
 
 const SONGS = JSON.parse(readFileSync(new URL("../data/themes.json", import.meta.url)));
@@ -93,6 +94,32 @@ test("filters and random pick", () => {
 
 test("share grid pads to six", () => {
   assert.equal(shareGrid([{ result: "skip" }, { result: "partial" }, { result: "correct" }]), "⬛🟨🟩⬜⬜⬜");
+});
+
+test("easy-mode clues compare gender, actType and company", () => {
+  const ans = find("Triple H");
+  const rock = OPTS.find((o) => o.label === "The Rock");
+  const trish = OPTS.find((o) => o.label === "Trish Stratus");
+  const shield = OPTS.find((o) => o.label === "The Shield");
+  const kenny = OPTS.find((o) => o.label === "Kenny Omega");
+  const song = OPTS.find((o) => o.type === "song" && o.label === "The Game");
+
+  assert.equal(getClues(song, ans, SONGS), null);           // songs have no wrestler clues
+
+  const c1 = getClues(rock, ans, SONGS);
+  assert.equal(c1.gender.status, "match");                   // both male
+  assert.equal(c1.actType.status, "match");                  // both singles
+  assert.equal(c1.company.status, "match");                  // WWF/WWE overlap
+
+  const c2 = getClues(trish, ans, SONGS);
+  assert.equal(c2.gender.status, "miss");                    // female vs male
+  assert.equal(c2.actType.status, "match");                  // both singles
+
+  const c3 = getClues(shield, ans, SONGS);
+  assert.equal(c3.actType.status, "miss");                   // group vs singles
+
+  const c4 = getClues(kenny, ans, SONGS);
+  assert.equal(c4.company.status, "miss");                   // AEW/NJPW/DDT vs WWF/WWE
 });
 
 test("stats update and don't double count", () => {

@@ -1,7 +1,7 @@
 import {
   CLIP_STEPS, MAX_ATTEMPTS, normalize, dateKey, dayNumber, dailySong, randomSong,
   filterSongs, buildOptions, searchOptions, isCorrect, isPartial, shareGrid,
-  updateStats, emptyStats, dailyStreakStillValid,
+  updateStats, emptyStats, dailyStreakStillValid, getClues,
 } from "./logic.js";
 
 const GAME_NAME = "Entrancle";
@@ -116,19 +116,41 @@ function renderTicks() {
 
 function renderAttempts() {
   const items = [];
+  const easy = round?.easy;
   for (let i = 0; i < MAX_ATTEMPTS; i++) {
     const g = round.guesses[i];
     if (g) {
       const mark = { correct: "✓", wrong: "✕", partial: "≈", skip: "–" }[g.result];
       const label = g.result === "skip" ? "Skipped" : esc(g.label);
       const tag = g.result === "skip" ? "" : `<span class="tag">${g.type === "song" ? "song" : "wrestler"}</span>`;
-      items.push(`<li class="${g.result}"><span class="mark">${mark}</span><span class="txt">${label}</span>${tag}</li>`);
+      const clues = easy && g.clues ? cluesHtml(g.clues) : "";
+      const cls = clues ? `${g.result} has-clues` : g.result;
+      const body = clues
+        ? `<div class="main-row"><span class="mark">${mark}</span><span class="txt">${label}</span>${tag}</div>${clues}`
+        : `<span class="mark">${mark}</span><span class="txt">${label}</span>${tag}`;
+      items.push(`<li class="${cls}">${body}</li>`);
     } else {
       const cur = !round.done && i === round.guesses.length;
       items.push(`<li class="${cur ? "current" : ""}"><span class="mark"></span><span class="txt" style="color:var(--muted)">${cur ? `Attempt ${i + 1} · ${CLIP_STEPS[i]}s` : ""}</span></li>`);
     }
   }
   $("attempts").innerHTML = items.join("");
+}
+
+function cluesHtml(c) {
+  if (!c) return "";
+  const genderLabel = { male: "Male", female: "Female", trans: "Trans", mixed: "Mixed" };
+  const actLabel = { singles: "Singles", group: "Group" };
+  const parts = [
+    chip(c.gender.status, "👤", genderLabel[c.gender.value] || c.gender.value),
+    chip(c.actType.status, "🎤", actLabel[c.actType.value] || c.actType.value),
+    chip(c.company.status, "🏢", (c.company.value || []).join(" / ") || "?"),
+  ];
+  return `<div class="clues">${parts.join("")}</div>`;
+}
+
+function chip(status, icon, label) {
+  return `<span class="clue ${status}"><span class="icon">${icon}</span>${esc(label)}</span>`;
 }
 
 function renderControls() {
@@ -191,11 +213,13 @@ function startDaily() {
   const saved = load("daily", null);
   round = saved && saved.key === today && saved.id === answer.id
     ? saved
-    : { key: today, id: answer.id, guesses: [], done: false, won: false };
+    : { key: today, id: answer.id, guesses: [], done: false, won: false, easy: load("easyMode", false) };
+  if (round.easy === undefined) round.easy = load("easyMode", false);
   save("daily", round);
   // Reset streak if a day was missed
-  const st = load("stats:daily", emptyStats());
-  if (st.lastDay != null && !dailyStreakStillValid(st.lastDay, dayNumber())) { st.streak = 0; save("stats:daily", st); }
+  const sk = currentStatsKey();
+  const st = load(sk, emptyStats());
+  if (st.lastDay != null && !dailyStreakStillValid(st.lastDay, dayNumber())) { st.streak = 0; save(sk, st); }
   afterStart();
 }
 
@@ -212,7 +236,7 @@ function startUnlimited(forceNew = false) {
     const recent = load("recent", []);
     answer = randomSong(pool.length ? pool : SONGS, recent);
     save("recent", [answer.id, ...recent].slice(0, RECENT_LIMIT));
-    round = { id: answer.id, guesses: [], done: false, won: false };
+    round = { id: answer.id, guesses: [], done: false, won: false, easy: load("easyMode", false) };
     save("unlimited", round);
   }
   afterStart();
@@ -248,11 +272,16 @@ function addGuess(g, { keepAudio = false } = {}) {
 
 function finishRound() {
   const key = mode === "daily" ? round.key : `u:${round.id}:${Date.now()}`;
-  const statsKey = mode === "daily" ? "stats:daily" : "stats:unlimited";
+  const statsKey = currentStatsKey();
   const st = updateStats(load(statsKey, emptyStats()), { won: round.won, attempts: round.guesses.length, key });
   if (mode === "daily") st.lastDay = dayNumber();
   save(statsKey, st);
   setTimeout(showResult, 700);
+}
+
+function currentStatsKey() {
+  const base = mode === "daily" ? "stats:daily" : "stats:unlimited";
+  return round?.easy ? base + ":easy" : base;
 }
 
 // ---------- guessing ----------
@@ -268,7 +297,11 @@ function submitGuess(e) {
   }
   if (round.guesses.some((g) => g.optKey === opt.key)) { setHint("You've already tried that one.", true); return; }
   const result = isCorrect(opt, answer) ? "correct" : isPartial(opt, answer, SONGS) ? "partial" : "wrong";
-  addGuess({ label: opt.label, type: opt.type, optKey: opt.key, result });
+  const guess = { label: opt.label, type: opt.type, optKey: opt.key, result };
+  if (round.easy && result !== "correct" && opt.type === "wrestler") {
+    guess.clues = getClues(opt, answer, SONGS);
+  }
+  addGuess(guess);
   clearInput();
 }
 
@@ -371,7 +404,8 @@ function showResult() {
 
 async function share() {
   const score = round.won ? round.guesses.length : "X";
-  const head = mode === "daily" ? `${GAME_NAME} #${dayNumber() + 1}` : `${GAME_NAME} Unlimited`;
+  const easyTag = round.easy ? " Easy" : "";
+  const head = mode === "daily" ? `${GAME_NAME}${easyTag} #${dayNumber() + 1}` : `${GAME_NAME}${easyTag} Unlimited`;
   const url = location.origin + location.pathname;
   const text = `${head} ${score}/${MAX_ATTEMPTS}\n🔔 ${shareGrid(round.guesses)}\n${url}`;
   try {
@@ -387,8 +421,10 @@ $("dlg-result").addEventListener("close", () => { clearInterval(countdownTimer);
 
 // ---------- stats ----------
 function showStats() {
-  const st = load(mode === "daily" ? "stats:daily" : "stats:unlimited", emptyStats());
-  $("s-mode").textContent = mode === "daily" ? "Daily" : "Unlimited";
+  const easy = load("easyMode", false);
+  const base = mode === "daily" ? "stats:daily" : "stats:unlimited";
+  const st = load(easy ? base + ":easy" : base, emptyStats());
+  $("s-mode").textContent = (mode === "daily" ? "Daily" : "Unlimited") + (easy ? " · Easy" : "");
   $("s-played").textContent = st.played;
   $("s-win").textContent = st.played ? Math.round((st.won / st.played) * 100) : 0;
   $("s-streak").textContent = st.streak;
@@ -419,6 +455,14 @@ $("btn-next-track").addEventListener("click", () => {
   if ($("dlg-result").open) $("dlg-result").close();
   if (mode === "daily") switchMode("unlimited");
   else startUnlimited(true);
+});
+$("easy-mode").addEventListener("change", (e) => {
+  save("easyMode", e.target.checked);
+  if (round && !round.guesses.length) {
+    round.easy = e.target.checked;
+    persist();
+  }
+  render();
 });
 document.querySelectorAll(".mode").forEach((b) => b.addEventListener("click", () => switchMode(b.dataset.mode)));
 for (const [id, field] of [["f-promo", "promotion"], ["f-era", "era"]]) {
@@ -451,6 +495,7 @@ async function boot() {
   const f = load("filters", { promotion: "all", era: "all" });
   $("f-promo").value = f.promotion;
   $("f-era").value = f.era;
+  $("easy-mode").checked = load("easyMode", false);
   const params = new URLSearchParams(location.search);
   switchMode(params.get("mode") === "unlimited" ? "unlimited" : load("mode", "daily"));
   if (!load("seenHelp", false)) { $("dlg-help").showModal(); save("seenHelp", true); }

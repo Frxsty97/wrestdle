@@ -33,6 +33,11 @@
       <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M6 6l8.5 6L6 18V6zm10 0h2v12h-2V6z"/></svg>
       Next track
     </button>
+    <label class="toggle" title="Show clues (gender, act type, company) under each guess">
+      <input type="checkbox" id="easy-mode">
+      <span class="toggle-track"><span class="toggle-thumb"></span></span>
+      <span class="toggle-label">Easy mode</span>
+    </label>
   </div>
 
   <section class="filters" id="filters" hidden>
@@ -141,6 +146,7 @@
         <li><b>Guess the wrestler or the song title.</b> Start typing and pick from the list. Either one counts.</li>
         <li><b>Skip or guess wrong</b> to hear more: 1s → 2s → 4s → 7s → 11s → 16s.</li>
         <li><span class="sw y"></span> A wrong guess turns amber if it's a wrestler from the same promotion and era.</li>
+        <li><b>Easy mode:</b> each wrong wrestler guess shows clue chips — gender, singles vs. group, and company overlap — so you can home in faster. Stats are kept separately.</li>
         <li><b>Daily:</b> one theme a day, the same for everyone. <b>Unlimited:</b> play as many as you like and filter by promotion or era.</li>
       </ol>
       <p class="help-note" id="help-count"></p>

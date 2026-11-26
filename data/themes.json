@@ -8,7 +8,14 @@
   ],
   "song": "Hell Frozen Over",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 443701280,
@@ -19,7 +26,14 @@
   ],
   "song": "I Won't Do What You Tell Me",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 445886250,
@@ -30,7 +44,13 @@
   ],
   "song": "If You Smell",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 428254346,
@@ -41,7 +61,13 @@
   ],
   "song": "Electrifying",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 442415865,
@@ -52,7 +78,13 @@
   ],
   "song": "The Game",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 443940399,
@@ -63,7 +95,13 @@
   ],
   "song": "King of Kings",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 443934704,
@@ -74,7 +112,13 @@
   ],
   "song": "Rest In Peace",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 538506846,
@@ -85,7 +129,13 @@
   ],
   "song": "Dark Side",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 443938602,
@@ -95,7 +145,13 @@
   ],
   "song": "Sexy Boy",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 538506836,
@@ -106,7 +162,14 @@
   ],
   "song": "Hart Attack",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW",
+   "WWE"
+  ]
  },
  {
   "id": 442414438,
@@ -117,7 +180,14 @@
   ],
   "song": "Return the Hitman",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW",
+   "WWE"
+  ]
  },
  {
   "id": 490681439,
@@ -125,7 +195,13 @@
   "aliases": [],
   "song": "Veil of Fire",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 538506980,
@@ -133,7 +209,13 @@
   "aliases": [],
   "song": "Out Of The Fire",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 538145996,
@@ -145,7 +227,15 @@
   ],
   "song": "Wreck",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "ECW",
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 538506852,
@@ -157,7 +247,15 @@
   ],
   "song": "Ode to Freud",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "ECW",
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 585439818,
@@ -167,7 +265,15 @@
   ],
   "song": "Break the Walls Down",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "WWF",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1278081276,
@@ -177,7 +283,15 @@
   ],
   "song": "Judas",
   "promotion": "AEW",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "WWF",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1382308075,
@@ -185,7 +299,14 @@
   "aliases": [],
   "song": "Medal",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "TNA",
+   "WWE"
+  ]
  },
  {
   "id": 79549395,
@@ -193,7 +314,14 @@
   "aliases": [],
   "song": "I Don't Suck",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "TNA",
+   "WWE"
+  ]
  },
  {
   "id": 1440631757,
@@ -203,7 +331,14 @@
   ],
   "song": "Metalingus",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 79549328,
@@ -213,7 +348,14 @@
   ],
   "song": "You Think You Know Me",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 688609258,
@@ -223,7 +365,15 @@
   ],
   "song": "Just Close Your Eyes",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "TNA",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 512317940,
@@ -233,7 +383,15 @@
   ],
   "song": "Blood Brother",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "TNA",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 538506981,
@@ -241,7 +399,15 @@
   "aliases": [],
   "song": "Latino Heat",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ECW",
+   "WCW",
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 1185077421,
@@ -249,7 +415,15 @@
   "aliases": [],
   "song": "Viva La Raza",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ECW",
+   "WCW",
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 443165164,
@@ -257,7 +431,15 @@
   "aliases": [],
   "song": "619",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ECW",
+   "WCW",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 404193371,
@@ -265,7 +447,15 @@
   "aliases": [],
   "song": "Booyaka 619",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ECW",
+   "WCW",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 585439816,
@@ -275,7 +465,12 @@
   ],
   "song": "I Walk Alone",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1271429443,
@@ -285,7 +480,12 @@
   ],
   "song": "Animal",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 440424769,
@@ -293,7 +493,12 @@
   "aliases": [],
   "song": "Voices",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 404193320,
@@ -301,7 +506,12 @@
   "aliases": [],
   "song": "Burn In My Light",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 445878844,
@@ -309,7 +519,12 @@
   "aliases": [],
   "song": "The Time Is Now",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 517734584,
@@ -317,7 +532,12 @@
   "aliases": [],
   "song": "Next Big Thing",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 857570769,
@@ -328,7 +548,15 @@
   ],
   "song": "Crank It Up",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "WWF",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 548830266,
@@ -339,7 +567,15 @@
   ],
   "song": "Big",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "WWF",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 404193357,
@@ -347,7 +583,12 @@
   "aliases": [],
   "song": "Some Bodies Gonna Get It",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 79549425,
@@ -355,7 +596,12 @@
   "aliases": [],
   "song": "Sexual Chocolate",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 853467457,
@@ -363,7 +609,14 @@
   "aliases": [],
   "song": "G.I. Bro",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "WWE",
+   "TNA"
+  ]
  },
  {
   "id": 689482776,
@@ -373,7 +626,15 @@
   ],
   "song": "One of a Kind",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ECW",
+   "WWE",
+   "TNA",
+   "AEW"
+  ]
  },
  {
   "id": 1211468959,
@@ -383,7 +644,15 @@
   ],
   "song": "Dam-Nation",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ECW",
+   "WWE",
+   "TNA",
+   "AEW"
+  ]
  },
  {
   "id": 621624895,
@@ -391,7 +660,15 @@
   "aliases": [],
   "song": "No More Words",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "TNA",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 79549421,
@@ -399,7 +676,12 @@
   "aliases": [],
   "song": "It Just Feels Right",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 857570714,
@@ -407,7 +689,12 @@
   "aliases": [],
   "song": "LoveFuryPassionEnergy",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 79549185,
@@ -415,7 +702,12 @@
   "aliases": [],
   "song": "Time to Rock and Roll",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506985,
@@ -423,7 +715,12 @@
   "aliases": [],
   "song": "Who I Am",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 445877785,
@@ -433,7 +730,13 @@
   ],
   "song": "Are You Ready?",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 79549273,
@@ -443,7 +746,13 @@
   ],
   "song": "Break It Down",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 79549346,
@@ -453,7 +762,12 @@
   ],
   "song": "Oh You Didn't Know",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 6773868748,
@@ -461,7 +775,12 @@
   "aliases": [],
   "song": "With My Baby Tonight",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506953,
@@ -472,7 +791,12 @@
   ],
   "song": "AssMan",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506982,
@@ -483,7 +807,12 @@
   ],
   "song": "I've Got It All",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 6773868644,
@@ -494,7 +823,12 @@
   ],
   "song": "One Two Three",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 443935799,
@@ -504,7 +838,12 @@
   ],
   "song": "No Chance In Hell",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1094726299,
@@ -512,7 +851,12 @@
   "aliases": [],
   "song": "Here Comes the Money",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 634533620,
@@ -520,7 +864,12 @@
   "aliases": [],
   "song": "Welcome to the Queendom",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 79549195,
@@ -528,7 +877,12 @@
   "aliases": [],
   "song": "All Grown Up",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 879563780,
@@ -539,7 +893,15 @@
   ],
   "song": "Real American",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW",
+   "TNA",
+   "WWE"
+  ]
  },
  {
   "id": 805085880,
@@ -549,7 +911,12 @@
   ],
   "song": "Unstable",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 853467455,
@@ -560,7 +927,12 @@
   ],
   "song": "Pomp and Circumstance",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 853467474,
@@ -571,7 +943,12 @@
   ],
   "song": "What Up Mach?",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 445882323,
@@ -581,7 +958,12 @@
   ],
   "song": "Snake Bit",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 445885004,
@@ -592,7 +974,12 @@
   ],
   "song": "It's All About The Money",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 655303487,
@@ -602,7 +989,12 @@
   ],
   "song": "Perfection",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 805085881,
@@ -612,7 +1004,12 @@
   ],
   "song": "Hot Rod",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 445884505,
@@ -622,7 +1019,12 @@
   ],
   "song": "Superfly",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506835,
@@ -632,7 +1034,13 @@
   ],
   "song": "Bad Boy",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW"
+  ]
  },
  {
   "id": 538506829,
@@ -642,7 +1050,13 @@
   ],
   "song": "Diesel Blues",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW"
+  ]
  },
  {
   "id": 1314592511,
@@ -652,7 +1066,13 @@
   ],
   "song": "Jackknife",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW"
+  ]
  },
  {
   "id": 512318037,
@@ -660,7 +1080,12 @@
   "aliases": [],
   "song": "Sumo",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506851,
@@ -668,7 +1093,13 @@
   "aliases": [],
   "song": "Mastodon",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "WWF"
+  ]
  },
  {
   "id": 538506857,
@@ -679,7 +1110,12 @@
   ],
   "song": "Snap",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506834,
@@ -690,7 +1126,12 @@
   ],
   "song": "Psycho-Dance",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 79549295,
@@ -698,7 +1139,15 @@
   "aliases": [],
   "song": "Gold-Lust",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW",
+   "TNA",
+   "WWE"
+  ]
  },
  {
   "id": 538506832,
@@ -706,7 +1155,15 @@
   "aliases": [],
   "song": "Goldust",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW",
+   "TNA",
+   "WWE"
+  ]
  },
  {
   "id": 1620257121,
@@ -714,7 +1171,12 @@
   "aliases": [],
   "song": "Legacy",
   "promotion": "AEW",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1427703472,
@@ -724,7 +1186,13 @@
   ],
   "song": "Bulldog",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW"
+  ]
  },
  {
   "id": 538506858,
@@ -732,7 +1200,12 @@
   "aliases": [],
   "song": "Dangerous",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 79549321,
@@ -740,7 +1213,12 @@
   "aliases": [],
   "song": "The Ultimate",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506848,
@@ -748,7 +1226,12 @@
   "aliases": [],
   "song": "Pearl River Rip",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1185077429,
@@ -756,7 +1239,12 @@
   "aliases": [],
   "song": "Hardwood",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1211469049,
@@ -764,7 +1252,12 @@
   "aliases": [],
   "song": "Bam Bam",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1211468961,
@@ -772,7 +1265,12 @@
   "aliases": [],
   "song": "Guard",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 805085882,
@@ -780,7 +1278,12 @@
   "aliases": [],
   "song": "Hard Corps",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1185077422,
@@ -790,7 +1293,12 @@
   ],
   "song": "Desert Threat",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1463847711,
@@ -800,7 +1308,12 @@
   ],
   "song": "Kingdom Come",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1271429110,
@@ -810,7 +1323,15 @@
   ],
   "song": "Urban Cowboy",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW",
+   "TNA",
+   "AEW"
+  ]
  },
  {
   "id": 1427703479,
@@ -820,7 +1341,15 @@
   ],
   "song": "Double J",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW",
+   "TNA",
+   "AEW"
+  ]
  },
  {
   "id": 1185077426,
@@ -828,7 +1357,12 @@
   "aliases": [],
   "song": "Buffalo",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1539215428,
@@ -836,7 +1370,12 @@
   "aliases": [],
   "song": "War Cry",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1271429104,
@@ -846,7 +1385,12 @@
   ],
   "song": "Evil Behind the Makeup",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1211468965,
@@ -854,7 +1398,12 @@
   "aliases": [],
   "song": "Shango Tango",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1211469047,
@@ -864,7 +1413,12 @@
   ],
   "song": "Storm",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1314592359,
@@ -872,7 +1426,12 @@
   "aliases": [],
   "song": "Made in the USA",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 853467467,
@@ -880,7 +1439,12 @@
   "aliases": [],
   "song": "Total Package",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1185077423,
@@ -890,7 +1454,12 @@
   ],
   "song": "Dragon",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1271429105,
@@ -900,7 +1469,12 @@
   ],
   "song": "Model",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1427703480,
@@ -908,7 +1482,12 @@
   "aliases": [],
   "song": "Love My Brother",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 6773868635,
@@ -918,7 +1497,12 @@
   ],
   "song": "Walkabout",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 79549381,
@@ -926,7 +1510,12 @@
   "aliases": [],
   "song": "Hello Ladies",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 79549337,
@@ -936,7 +1525,12 @@
   ],
   "song": "The Ho Train",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506951,
@@ -946,7 +1540,12 @@
   ],
   "song": "Danger At The Door",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 219861441,
@@ -956,7 +1555,12 @@
   ],
   "song": "Damn",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 548708972,
@@ -967,7 +1571,12 @@
   ],
   "song": "Protection",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1271429109,
@@ -978,7 +1587,12 @@
   ],
   "song": "Enough is Enough",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1495889564,
@@ -989,7 +1603,12 @@
   ],
   "song": "We Are the Nation",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1094335717,
@@ -999,7 +1618,12 @@
   ],
   "song": "Dark Side V2",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506994,
@@ -1007,7 +1631,12 @@
   "aliases": [],
   "song": "Bad Man",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506995,
@@ -1015,7 +1644,12 @@
   "aliases": [],
   "song": "Turn It Up",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 79549483,
@@ -1023,7 +1657,12 @@
   "aliases": [],
   "song": "Bangin It",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506946,
@@ -1031,7 +1670,12 @@
   "aliases": [],
   "song": "This Is A Test",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 538506965,
@@ -1041,7 +1685,12 @@
   ],
   "song": "If You Dare",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1502442739,
@@ -1051,7 +1700,12 @@
   ],
   "song": "Path of Rage",
   "promotion": "AEW",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 548841243,
@@ -1059,7 +1713,12 @@
   "aliases": [],
   "song": "What About Me?",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1211468980,
@@ -1067,7 +1726,12 @@
   "aliases": [],
   "song": "Snow-Man",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1081063074,
@@ -1077,7 +1741,12 @@
   ],
   "song": "We're Coming Down",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 79549390,
@@ -1085,7 +1754,15 @@
   "aliases": [],
   "song": "Real Man's Man",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "WWF",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 79549333,
@@ -1093,7 +1770,12 @@
   "aliases": [],
   "song": "Blood",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 6773868749,
@@ -1101,7 +1783,12 @@
   "aliases": [],
   "song": "Wild Cat",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 6773868647,
@@ -1109,7 +1796,12 @@
   "aliases": [],
   "song": "I Know You Want Me",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 79549198,
@@ -1117,7 +1809,12 @@
   "aliases": [],
   "song": "Need a Little Time",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1439624044,
@@ -1125,7 +1822,12 @@
   "aliases": [],
   "song": "The Girl Next Door",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 399693342,
@@ -1133,7 +1835,12 @@
   "aliases": [],
   "song": "Don't Mess With",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1439624049,
@@ -1141,7 +1848,12 @@
   "aliases": [],
   "song": "Molly Holly",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1439624050,
@@ -1149,7 +1861,12 @@
   "aliases": [],
   "song": "Made of Ivory",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1211469016,
@@ -1157,7 +1874,12 @@
   "aliases": [],
   "song": "Pretty Mean Sister",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 880350041,
@@ -1165,7 +1887,12 @@
   "aliases": [],
   "song": "Line In the Sand",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 512318036,
@@ -1175,7 +1902,12 @@
   ],
   "song": "Longhorn",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 404193341,
@@ -1183,7 +1915,12 @@
   "aliases": [],
   "song": "Quien Soy Yo / Who Am I",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 805085600,
@@ -1191,7 +1928,12 @@
   "aliases": [],
   "song": "Tribal Trouble",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 442419947,
@@ -1201,7 +1943,12 @@
   ],
   "song": "Land of Five Rivers",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 621624919,
@@ -1211,7 +1958,12 @@
   ],
   "song": "Turn Up the Trouble",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 219862501,
@@ -1219,7 +1971,12 @@
   "aliases": [],
   "song": "Lambeg",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 219864697,
@@ -1229,7 +1986,12 @@
   ],
   "song": "Unstoppable",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1427703471,
@@ -1239,7 +2001,12 @@
   ],
   "song": "Hell Will Be Calling Your Name",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 404193349,
@@ -1249,7 +2016,12 @@
   ],
   "song": "I'm Comin'",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1495889571,
@@ -1257,7 +2029,12 @@
   "aliases": [],
   "song": "Milan Miracle",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1185077425,
@@ -1267,7 +2044,12 @@
   ],
   "song": "The Horror",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 621624926,
@@ -1275,7 +2057,12 @@
   "aliases": [],
   "song": "Hes Ma Da",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 219860602,
@@ -1283,7 +2070,12 @@
   "aliases": [],
   "song": "Don't Waste My Time",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1314592513,
@@ -1291,7 +2083,12 @@
   "aliases": [],
   "song": "Masterpiece",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 585439824,
@@ -1299,7 +2096,12 @@
   "aliases": [],
   "song": "Paparazzi",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 219865221,
@@ -1307,7 +2109,12 @@
   "aliases": [],
   "song": "Obsession",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 621624901,
@@ -1315,7 +2122,12 @@
   "aliases": [],
   "song": "Glamazon",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 219860307,
@@ -1323,7 +2135,12 @@
   "aliases": [],
   "song": "Not Enough for Me",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 404193362,
@@ -1331,7 +2148,12 @@
   "aliases": [],
   "song": "With Legs Like That",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 219866255,
@@ -1339,7 +2161,12 @@
   "aliases": [],
   "song": "Light a Fire",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 621624916,
@@ -1349,7 +2176,12 @@
   ],
   "song": "What Love Is",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 805085277,
@@ -1357,7 +2189,12 @@
   "aliases": [],
   "song": "Holla",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 6773866320,
@@ -1365,7 +2202,12 @@
   "aliases": [],
   "song": "Pourquoi?",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 805085544,
@@ -1375,7 +2217,12 @@
   ],
   "song": "She Looks Good",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 399693360,
@@ -1383,7 +2230,12 @@
   "aliases": [],
   "song": "International Woman",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 219864454,
@@ -1394,7 +2246,12 @@
   ],
   "song": "It's Time",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 79549189,
@@ -1405,7 +2262,12 @@
   ],
   "song": "Eye of the Hurricane",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 1185077430,
@@ -1413,7 +2275,12 @@
   "aliases": [],
   "song": "Green Mist",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 399693344,
@@ -1421,7 +2288,14 @@
   "aliases": [],
   "song": "Ain't No Stoppin' Me",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE",
+   "ROH",
+   "AEW"
+  ]
  },
  {
   "id": 1782572169,
@@ -1429,7 +2303,14 @@
   "aliases": [],
   "song": "Shining Forever",
   "promotion": "AEW",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE",
+   "ROH",
+   "AEW"
+  ]
  },
  {
   "id": 399693320,
@@ -1437,7 +2318,12 @@
   "aliases": [],
   "song": "Chavito Ardiente",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 857570727,
@@ -1445,7 +2331,12 @@
   "aliases": [],
   "song": "Patriot",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 805085598,
@@ -1453,7 +2344,12 @@
   "aliases": [],
   "song": "Get On Your Knees",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 621624917,
@@ -1461,7 +2357,12 @@
   "aliases": [],
   "song": "Ain't No Make Believe",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 853467400,
@@ -1472,7 +2373,14 @@
   ],
   "song": "Wolfpac",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WCW",
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 1504121225,
@@ -1483,7 +2391,14 @@
   ],
   "song": "It's a New World",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WCW",
+   "WWF",
+   "WWE"
+  ]
  },
  {
   "id": 512318032,
@@ -1493,7 +2408,12 @@
   ],
   "song": "Horse",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 512318033,
@@ -1503,7 +2423,12 @@
   ],
   "song": "Common Man Boogie",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 920419975,
@@ -1514,7 +2439,12 @@
   ],
   "song": "Badstreet U.S.A.",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF"
+  ]
  },
  {
   "id": 969138262,
@@ -1522,7 +2452,15 @@
   "aliases": [],
   "song": "Out From the Shadows",
   "promotion": "WWE",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "TNA",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1544552463,
@@ -1530,7 +2468,15 @@
   "aliases": [],
   "song": "Arrival",
   "promotion": "AEW",
-  "era": "Classic"
+  "era": "Classic",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "TNA",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 441236290,
@@ -1540,7 +2486,12 @@
   ],
   "song": "I Came to Play",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 467151077,
@@ -1548,7 +2499,12 @@
   "aliases": [],
   "song": "What's Up?",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 621624898,
@@ -1558,7 +2514,12 @@
   ],
   "song": "SOS",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 948034807,
@@ -1568,7 +2529,12 @@
   ],
   "song": "New Day, New Way",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1545638849,
@@ -1578,7 +2544,12 @@
   ],
   "song": "Feel The Power",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 857570767,
@@ -1586,7 +2557,12 @@
   "aliases": [],
   "song": "Somebody Call My Momma",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 399681721,
@@ -1594,7 +2570,12 @@
   "aliases": [],
   "song": "I Am Perfection",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 857570740,
@@ -1602,7 +2583,12 @@
   "aliases": [],
   "song": "Here To Show the World",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 399681734,
@@ -1610,7 +2596,12 @@
   "aliases": [],
   "song": "Written In My Face",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 630110927,
@@ -1618,7 +2609,12 @@
   "aliases": [],
   "song": "Just Don't Care Anymore",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 512318042,
@@ -1626,7 +2622,12 @@
   "aliases": [],
   "song": "Realeza",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1143476258,
@@ -1637,7 +2638,12 @@
   ],
   "song": "Kingdom",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 483982307,
@@ -1648,7 +2654,12 @@
   ],
   "song": "Smoke and Mirrors",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 894193007,
@@ -1659,7 +2670,12 @@
   ],
   "song": "Written in the Stars",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1495889560,
@@ -1667,7 +2683,12 @@
   "aliases": [],
   "song": "Million Dollar Baby",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 399681717,
@@ -1677,7 +2698,12 @@
   ],
   "song": "It's a New Day",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 193145050,
@@ -1687,7 +2713,14 @@
   ],
   "song": "Cult of Personality",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ROH",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 404193367,
@@ -1697,7 +2730,14 @@
   ],
   "song": "This Fire Burns",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ROH",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 399681754,
@@ -1707,7 +2747,12 @@
   ],
   "song": "Radio",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 857570719,
@@ -1715,7 +2760,12 @@
   "aliases": [],
   "song": "Meat On the Table",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 857570744,
@@ -1723,7 +2773,12 @@
   "aliases": [],
   "song": "Hallelujah",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 857570742,
@@ -1731,7 +2786,12 @@
   "aliases": [],
   "song": "ChaChaLaLa",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 857570703,
@@ -1741,7 +2801,12 @@
   ],
   "song": "Flight of the Valkyries",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 196480329,
@@ -1751,7 +2816,12 @@
   ],
   "song": "The Final Countdown",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 598836375,
@@ -1761,7 +2831,12 @@
   ],
   "song": "Special Op",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1565889946,
@@ -1771,7 +2846,12 @@
   ],
   "song": "Head of the Table",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1762712562,
@@ -1781,7 +2861,12 @@
   ],
   "song": "I Am Greatness",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 891070198,
@@ -1791,7 +2876,12 @@
   ],
   "song": "The Second Coming",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1779967804,
@@ -1801,7 +2891,12 @@
   ],
   "song": "The Vision",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1657753416,
@@ -1811,7 +2906,12 @@
   ],
   "song": "Shatter",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 857570726,
@@ -1819,7 +2919,12 @@
   "aliases": [],
   "song": "Let's Light It Up",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 6774239768,
@@ -1829,7 +2934,12 @@
   ],
   "song": "Stars in the Night",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1439624231,
@@ -1837,7 +2947,12 @@
   "aliases": [],
   "song": "Who's That Girl",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 443170907,
@@ -1847,7 +2962,12 @@
   ],
   "song": "New Foundation",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1322661759,
@@ -1857,7 +2977,12 @@
   ],
   "song": "What You Think",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 918294343,
@@ -1869,7 +2994,12 @@
   ],
   "song": "Beautiful Life",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 399681762,
@@ -1881,7 +3011,12 @@
   ],
   "song": "You Can Look - But You Can't Touch",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 829080641,
@@ -1889,7 +3024,12 @@
   "aliases": [],
   "song": "Rush of Power",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1817693850,
@@ -1899,7 +3039,12 @@
   ],
   "song": "I Am The Tempest",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1587115424,
@@ -1909,7 +3054,12 @@
   ],
   "song": "Redeemer",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1633287882,
@@ -1919,7 +3069,14 @@
   ],
   "song": "Uppercut Swingphony",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ROH",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 826667575,
@@ -1929,7 +3086,12 @@
   ],
   "song": "Let Me Show You How",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 742818098,
@@ -1937,7 +3099,12 @@
   "aliases": [],
   "song": "Right Here, Right Now",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 476097084,
@@ -1947,7 +3114,12 @@
   ],
   "song": "So Close Now",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1165436179,
@@ -1957,7 +3129,12 @@
   ],
   "song": "Done with That",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1706908667,
@@ -1967,7 +3144,12 @@
   ],
   "song": "Main Event Ish",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1706907809,
@@ -1975,7 +3157,12 @@
   "aliases": [],
   "song": "Born a King",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1651465689,
@@ -1983,7 +3170,12 @@
   "aliases": [],
   "song": "Taking It All",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1760798448,
@@ -1991,7 +3183,12 @@
   "aliases": [],
   "song": "Samoan Destroyer",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1079614536,
@@ -1999,7 +3196,15 @@
   "aliases": [],
   "song": "Phenomenal",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "TNA",
+   "ROH",
+   "NJPW",
+   "WWE"
+  ]
  },
  {
   "id": 1741824718,
@@ -2007,7 +3212,15 @@
   "aliases": [],
   "song": "You Don't Want None",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "TNA",
+   "ROH",
+   "NJPW",
+   "WWE"
+  ]
  },
  {
   "id": 1100270265,
@@ -2017,7 +3230,12 @@
   ],
   "song": "The Rising Sun",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 950842686,
@@ -2028,7 +3246,12 @@
   ],
   "song": "Catch Your Breath",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1642812964,
@@ -2039,7 +3262,12 @@
   ],
   "song": "I AM DANGER",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 951108864,
@@ -2049,7 +3277,12 @@
   ],
   "song": "Fight",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 883714256,
@@ -2057,7 +3290,12 @@
   "aliases": [],
   "song": "Worlds Apart",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1595654938,
@@ -2065,7 +3303,12 @@
   "aliases": [],
   "song": "This Is It",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 953145653,
@@ -2075,7 +3318,12 @@
   ],
   "song": "Celtic Invasion",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1832827246,
@@ -2085,7 +3333,12 @@
   ],
   "song": "New Lows",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 883797910,
@@ -2095,7 +3348,12 @@
   ],
   "song": "Recognition",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 918563200,
@@ -2103,7 +3361,12 @@
   "aliases": [],
   "song": "Turn It Up",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1744235515,
@@ -2111,7 +3374,12 @@
   "aliases": [],
   "song": "Role Model",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1061312405,
@@ -2119,7 +3387,12 @@
   "aliases": [],
   "song": "Spiteful",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1554554934,
@@ -2127,7 +3400,12 @@
   "aliases": [],
   "song": "The Fury",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1676145644,
@@ -2135,7 +3413,12 @@
   "aliases": [],
   "song": "You Can't Hide",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1519333141,
@@ -2145,7 +3428,12 @@
   ],
   "song": "Tokyo Shock",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1445930127,
@@ -2155,7 +3443,12 @@
   ],
   "song": "Genius of the Sky",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1445919721,
@@ -2165,7 +3458,12 @@
   ],
   "song": "Brutality",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1378429996,
@@ -2173,7 +3471,12 @@
   "aliases": [],
   "song": "Watch Me Shine",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1893755248,
@@ -2181,7 +3484,12 @@
   "aliases": [],
   "song": "Trouble",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1657277127,
@@ -2189,7 +3497,12 @@
   "aliases": [],
   "song": "Liv Gone Mad",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1735753816,
@@ -2197,7 +3510,12 @@
   "aliases": [],
   "song": "Glow",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1710647721,
@@ -2205,7 +3523,12 @@
   "aliases": [],
   "song": "Not Like Most Girls",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1346109048,
@@ -2213,7 +3536,12 @@
   "aliases": [],
   "song": "Broken Dreams",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1226514053,
@@ -2221,7 +3549,12 @@
   "aliases": [],
   "song": "Gallantry",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1141461880,
@@ -2229,7 +3562,12 @@
   "aliases": [],
   "song": "Glorious Domination",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1239447840,
@@ -2239,7 +3577,12 @@
   ],
   "song": "Bruiserweight",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 6773866594,
@@ -2247,7 +3590,12 @@
   "aliases": [],
   "song": "Inaugural",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1269236355,
@@ -2257,7 +3605,12 @@
   ],
   "song": "Bring the Swag",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1718627761,
@@ -2267,7 +3620,12 @@
   ],
   "song": "We Want Smoke",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1385158503,
@@ -2278,7 +3636,12 @@
   ],
   "song": "War",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1032035568,
@@ -2286,7 +3649,12 @@
   "aliases": [],
   "song": "Elite",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 6799133036,
@@ -2294,7 +3662,12 @@
   "aliases": [],
   "song": "Highway To The Sky",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1742858250,
@@ -2302,7 +3675,12 @@
   "aliases": [],
   "song": "Rise For The Night",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1525778595,
@@ -2310,7 +3688,12 @@
   "aliases": [],
   "song": "Infamy",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1794402614,
@@ -2320,7 +3703,12 @@
   ],
   "song": "Rulers Of The World",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "mixed",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1671217970,
@@ -2330,7 +3718,12 @@
   ],
   "song": "It Is My Time",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1634017945,
@@ -2340,7 +3733,12 @@
   ],
   "song": "Prepare To Fight",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1624786057,
@@ -2350,7 +3748,12 @@
   ],
   "song": "General",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1719327366,
@@ -2358,7 +3761,12 @@
   "aliases": [],
   "song": "Sacred",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1695926410,
@@ -2368,7 +3776,12 @@
   ],
   "song": "Welcome To LA",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1811210648,
@@ -2376,7 +3789,12 @@
   "aliases": [],
   "song": "Still Humble",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1681879723,
@@ -2384,7 +3802,12 @@
   "aliases": [],
   "song": "Take Flight",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1640107112,
@@ -2392,7 +3815,12 @@
   "aliases": [],
   "song": "The Anomaly",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1612893069,
@@ -2402,7 +3830,12 @@
   ],
   "song": "A-Town Down",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1762037729,
@@ -2410,7 +3843,12 @@
   "aliases": [],
   "song": "Breakk And Destroy",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1669824399,
@@ -2418,7 +3856,12 @@
   "aliases": [],
   "song": "Battle Tested",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1584422553,
@@ -2426,7 +3869,12 @@
   "aliases": [],
   "song": "Shake the Ground",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1735758884,
@@ -2436,7 +3884,12 @@
   ],
   "song": "Tiffy Time",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1683889940,
@@ -2444,7 +3897,12 @@
   "aliases": [],
   "song": "Hot Mess",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1709559006,
@@ -2452,7 +3910,12 @@
   "aliases": [],
   "song": "Locked In",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1681862894,
@@ -2462,7 +3925,12 @@
   ],
   "song": "Melo Don't Miss",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1657278902,
@@ -2470,7 +3938,12 @@
   "aliases": [],
   "song": "Bet On Yourself",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1684963618,
@@ -2478,7 +3951,12 @@
   "aliases": [],
   "song": "Eye On the Prize",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1646678679,
@@ -2486,7 +3964,12 @@
   "aliases": [],
   "song": "We Got the Rage",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1803673410,
@@ -2494,7 +3977,12 @@
   "aliases": [],
   "song": "La Mas Ruda",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1740626784,
@@ -2502,7 +3990,12 @@
   "aliases": [],
   "song": "A Storm Is Coming",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1588443487,
@@ -2510,7 +4003,12 @@
   "aliases": [],
   "song": "Epic",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1800570887,
@@ -2521,7 +4019,12 @@
   ],
   "song": "Zero Miedo",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1810491153,
@@ -2531,7 +4034,12 @@
   ],
   "song": "Animo",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1775776798,
@@ -2539,7 +4047,12 @@
   "aliases": [],
   "song": "Time Of Arrival",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1890238166,
@@ -2547,7 +4060,12 @@
   "aliases": [],
   "song": "La Primera",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1628837375,
@@ -2555,7 +4073,12 @@
   "aliases": [],
   "song": "All Fall Down",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1670177830,
@@ -2563,7 +4086,12 @@
   "aliases": [],
   "song": "Triumph",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1698201980,
@@ -2571,7 +4099,12 @@
   "aliases": [],
   "song": "On and On",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1787465718,
@@ -2579,7 +4112,12 @@
   "aliases": [],
   "song": "Into The Rico-Verse",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1494993750,
@@ -2587,7 +4125,14 @@
   "aliases": [],
   "song": "Battle Cry",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "DDT",
+   "NJPW",
+   "AEW"
+  ]
  },
  {
   "id": 1484293637,
@@ -2595,7 +4140,12 @@
   "aliases": [],
   "song": "I Fell",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1533431980,
@@ -2605,7 +4155,12 @@
   ],
   "song": "Juicy",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1586119289,
@@ -2613,7 +4168,14 @@
   "aliases": [],
   "song": "All About Tha (Boom!)",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ROH",
+   "NXT",
+   "AEW"
+  ]
  },
  {
   "id": 1708944594,
@@ -2623,7 +4185,12 @@
   ],
   "song": "The Devil's Trick",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1739884032,
@@ -2634,7 +4201,14 @@
   ],
   "song": "You Leave Us No Choice",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "ROH",
+   "NJPW",
+   "AEW"
+  ]
  },
  {
   "id": 1527356549,
@@ -2644,7 +4218,12 @@
   ],
   "song": "Roll Model",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1723914537,
@@ -2654,7 +4233,13 @@
   ],
   "song": "Somewhere In A Dream",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1586373691,
@@ -2662,7 +4247,13 @@
   "aliases": [],
   "song": "Indignation",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "STARDOM",
+   "AEW"
+  ]
  },
  {
   "id": 1531248659,
@@ -2670,7 +4261,14 @@
   "aliases": [],
   "song": "Blood and Glory",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "ROH",
+   "NWA",
+   "AEW"
+  ]
  },
  {
   "id": 1620621118,
@@ -2678,7 +4276,12 @@
   "aliases": [],
   "song": "Cauterize",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1640176339,
@@ -2686,7 +4289,12 @@
   "aliases": [],
   "song": "Harder Hart",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1535829355,
@@ -2694,7 +4302,14 @@
   "aliases": [],
   "song": "Cold World",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "CZW",
+   "IMPACT",
+   "AEW"
+  ]
  },
  {
   "id": 1588793959,
@@ -2704,7 +4319,15 @@
   ],
   "song": "Darkside of T R",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "WWE",
+   "ROH",
+   "NJPW",
+   "AEW"
+  ]
  },
  {
   "id": 1566804312,
@@ -2714,7 +4337,12 @@
   ],
   "song": "Zero Miedo",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1506438816,
@@ -2722,7 +4350,12 @@
   "aliases": [],
   "song": "Death Triangle",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1616897715,
@@ -2733,7 +4366,12 @@
   ],
   "song": "Out of Time 2.0",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1505001515,
@@ -2741,7 +4379,12 @@
   "aliases": [],
   "song": "This Is War",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1618372645,
@@ -2749,7 +4392,16 @@
   "aliases": [],
   "song": "Coliseum Clash",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ROH",
+   "TNA",
+   "NXT",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1610374354,
@@ -2759,7 +4411,13 @@
   ],
   "song": "I Am",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1525622719,
@@ -2767,7 +4425,13 @@
   "aliases": [],
   "song": "It's Live",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW",
+   "WWE"
+  ]
  },
  {
   "id": 1589161816,
@@ -2777,7 +4441,12 @@
   ],
   "song": "P-P-P-P-Powerhouse",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1891413160,
@@ -2785,7 +4454,12 @@
   "aliases": [],
   "song": "You Are Cursed",
   "promotion": "WWE",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1624769509,
@@ -2793,7 +4467,12 @@
   "aliases": [],
   "song": "The Danhausen Show",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1500906603,
@@ -2801,7 +4480,12 @@
   "aliases": [],
   "song": "Join Us",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1510695657,
@@ -2811,7 +4495,13 @@
   ],
   "song": "He Is Exalted",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1555449108,
@@ -2821,7 +4511,12 @@
   ],
   "song": "Jungle Run",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1492501476,
@@ -2829,7 +4524,12 @@
   "aliases": [],
   "song": "Jurassic Express Theme",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1502440998,
@@ -2837,7 +4537,12 @@
   "aliases": [],
   "song": "Best Friends Theme",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1510731374,
@@ -2847,7 +4552,12 @@
   ],
   "song": "Inner Circle Theme",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1586106331,
@@ -2857,7 +4567,14 @@
   ],
   "song": "Kill the Messenger",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "CMLL",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1616239437,
@@ -2865,7 +4582,14 @@
   "aliases": [],
   "song": "Lethal Injection",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ROH",
+   "TNA",
+   "AEW"
+  ]
  },
  {
   "id": 1555449117,
@@ -2873,7 +4597,14 @@
   "aliases": [],
   "song": "Fallen Angel",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ROH",
+   "TNA",
+   "AEW"
+  ]
  },
  {
   "id": 1555449107,
@@ -2881,7 +4612,12 @@
   "aliases": [],
   "song": "The World Is Mine",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1663633347,
@@ -2891,7 +4627,13 @@
   ],
   "song": "Face-Off",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "DDT",
+   "AEW"
+  ]
  },
  {
   "id": 1587034333,
@@ -2899,7 +4641,12 @@
   "aliases": [],
   "song": "Crimson Extinction",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1762763786,
@@ -2907,7 +4654,12 @@
   "aliases": [],
   "song": "Dream Over",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1635564074,
@@ -2915,7 +4667,13 @@
   "aliases": [],
   "song": "The Fallen Goddess",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "WWE",
+   "ROH"
+  ]
  },
  {
   "id": 1747375373,
@@ -2923,7 +4681,14 @@
   "aliases": [],
   "song": "In the Trenches",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "ROH",
+   "NXT",
+   "AEW"
+  ]
  },
  {
   "id": 1857003658,
@@ -2931,7 +4696,12 @@
   "aliases": [],
   "song": "Los Mas Buscados",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1887592553,
@@ -2939,7 +4709,12 @@
   "aliases": [],
   "song": "Paseo Aéreo",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1500921491,
@@ -2947,7 +4722,12 @@
   "aliases": [],
   "song": "Beast Bomb",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "trans",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1533495510,
@@ -2955,7 +4735,12 @@
   "aliases": [],
   "song": "Queen Slayer",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1507585509,
@@ -2963,7 +4748,12 @@
   "aliases": [],
   "song": "Super Bad Girl",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1524366697,
@@ -2971,7 +4761,12 @@
   "aliases": [],
   "song": "Reach for the Sky",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1499913401,
@@ -2979,7 +4774,16 @@
   "aliases": [],
   "song": "Natural",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "WCW",
+   "TNA",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1503905202,
@@ -2987,7 +4791,15 @@
   "aliases": [],
   "song": "Double A",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WCW",
+   "WWF",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1501749217,
@@ -2995,7 +4807,12 @@
   "aliases": [],
   "song": "Swole World",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1630301386,
@@ -3003,7 +4820,12 @@
   "aliases": [],
   "song": "The Professor",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1874046719,
@@ -3011,7 +4833,12 @@
   "aliases": [],
   "song": "My Shadow Knows",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE"
+  ]
  },
  {
   "id": 1726117312,
@@ -3019,7 +4846,12 @@
   "aliases": [],
   "song": "Devil Rising",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1646261070,
@@ -3027,7 +4859,12 @@
   "aliases": [],
   "song": "Over It",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1524162179,
@@ -3035,7 +4872,14 @@
   "aliases": [],
   "song": "Path of Cage",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "LUCHA",
+   "IMPACT",
+   "AEW"
+  ]
  },
  {
   "id": 1505396137,
@@ -3043,7 +4887,13 @@
   "aliases": [],
   "song": "I Got 'Em Hurt",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1504579913,
@@ -3053,7 +4903,15 @@
   ],
   "song": "Rise of Damascus",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "WWF",
+   "TNA",
+   "WWE",
+   "AEW"
+  ]
  },
  {
   "id": 1544004482,
@@ -3061,7 +4919,12 @@
   "aliases": [],
   "song": "One Shot",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1725020947,
@@ -3069,7 +4932,12 @@
   "aliases": [],
   "song": "Choke",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "female",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1698099326,
@@ -3077,7 +4945,12 @@
   "aliases": [],
   "song": "A Long Way Down",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "singles",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1554733161,
@@ -3085,7 +4958,12 @@
   "aliases": [],
   "song": "Locked and Loaded",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "AEW"
+  ]
  },
  {
   "id": 1734664367,
@@ -3093,6 +4971,11 @@
   "aliases": [],
   "song": "Burnin' Daylight",
   "promotion": "AEW",
-  "era": "Modern"
+  "era": "Modern",
+  "gender": "male",
+  "actType": "group",
+  "company": [
+   "AEW"
+  ]
  }
 ]
